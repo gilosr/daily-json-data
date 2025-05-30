@@ -1,0 +1,4767 @@
+[
+  {
+    "date": "2025/05/29",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/05/30",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "Grad Nite",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/05/31",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/01",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "Grad Nite",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/02",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "Shavuot",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/03",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/04",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "Grad Nite",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/05",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/06",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Grad Nite",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/07",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/08",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "Grad Nite",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/09",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/10",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/11",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "Grad Nite",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/12",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/13",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "Grad Nite",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/14",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/15",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "5"
+    ],
+    "events": [
+      "Father's Day",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/16",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "DL After Dark at DL",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/17",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/18",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "DL After Dark at DL",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/19",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/20",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/21",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/22",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/23",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/24",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/25",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/26",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/27",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/28",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/29",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/06/30",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/01",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/02",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/03",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/04",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "Independence Day",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/05",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/06",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/07",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/08",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/09",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/10",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/11",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/12",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/13",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/14",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/15",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/16",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/17",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/18",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/19",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/20",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/21",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/22",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/23",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/24",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/25",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/26",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/27",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/28",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/29",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/30",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/07/31",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/01",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/02",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/03",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/04",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/05",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/06",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/07",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/08",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/09",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/10",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/11",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/12",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/13",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/14",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/15",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/16",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/17",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "4"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/18",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/19",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/20",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/21",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/22",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/23",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/24",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "5"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/25",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/26",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/27",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/28",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/29",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/30",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/31",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/01",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "Labor Day",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/02",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/03",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/04",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2"
+    ],
+    "events": [
+      "DL Halloween Half Marathon",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/05",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "DL Halloween Half Marathon",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/06",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "DL Halloween Half Marathon",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/07",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "DL Halloween Half Marathon",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/08",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/09",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "2"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/10",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/11",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/12",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "Gay Days Anaheim",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/13",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "3"
+    ],
+    "events": [
+      "Gay Days Anaheim",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/14",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "Gay Days Anaheim",
+      "Oogie Boogie Bash at CA",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/15",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/16",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "2"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/17",
+    "overall_score": "5",
+    "park_scores": [
+      "3",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/18",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/19",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/20",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/21",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/22",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/23",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Rosh Hashanah",
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/24",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/25",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/26",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/27",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/28",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/29",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/30",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/01",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/02",
+    "overall_score": "3",
+    "park_scores": [
+      "4",
+      "3"
+    ],
+    "events": [
+      "Yom Kippur",
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/03",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/04",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/05",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/06",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "8"
+    ],
+    "events": [
+      "Sukkot",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/07",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/08",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/09",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/10",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/11",
+    "overall_score": "9",
+    "park_scores": [
+      "9",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/12",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "7"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/13",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "9"
+    ],
+    "events": [
+      "Columbus Day",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/14",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "Shemini Atzeret",
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/15",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/16",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/17",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/18",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/19",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/20",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/21",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/22",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/23",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/24",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/25",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/26",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/27",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/28",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/29",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/30",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/31",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2"
+    ],
+    "events": [
+      "Halloween",
+      "Nevada Day",
+      "Oogie Boogie Bash at CA",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/01",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/02",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/03",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/04",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Election Day",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/05",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/06",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/07",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/08",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/09",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/10",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/11",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "Veterans Day",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/12",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/13",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/14",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "Holidays at DLR First day of",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/15",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/16",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/17",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/18",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/19",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/20",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/21",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/22",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/23",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/24",
+    "overall_score": "9",
+    "park_scores": [
+      "8",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/25",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/26",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/27",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "Thanksgiving",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/28",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/29",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/30",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/01",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/02",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/03",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/04",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/05",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/06",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/07",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/08",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/09",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/10",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/11",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/12",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/13",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/14",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/15",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5"
+    ],
+    "events": [
+      "Hanukkah",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/16",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/17",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/18",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/19",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/20",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/21",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/22",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/23",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/24",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "Christmas Eve",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/25",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "Christmas Day",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/26",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/27",
+    "overall_score": "9",
+    "park_scores": [
+      "9",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/28",
+    "overall_score": "10",
+    "park_scores": [
+      "10",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/29",
+    "overall_score": "9",
+    "park_scores": [
+      "9",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/30",
+    "overall_score": "8",
+    "park_scores": [
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/31",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "7"
+    ],
+    "events": [
+      "New Year's Eve",
+      "Blockouts: IN BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/01",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "9"
+    ],
+    "events": [
+      "New Year's Day",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/02",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/03",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/04",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/05",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/06",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/07",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Holidays at DLR Last day of",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/08",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/09",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/10",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/11",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/12",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/13",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/14",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/15",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/16",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/17",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/18",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/19",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "Birthday of Martin Luther King, Jr.",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/20",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/21",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/22",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/23",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/24",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/25",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/26",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/27",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/28",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/29",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2"
+    ],
+    "events": [
+      "Half Marathon Weekend",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/30",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "Half Marathon Weekend",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/31",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "Half Marathon Weekend",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/01",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "Super Bowl Sunday",
+      "Half Marathon Weekend",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/02",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/03",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/04",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/05",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/06",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/07",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/08",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/09",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/10",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/11",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/12",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/13",
+    "overall_score": "8",
+    "park_scores": [
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/14",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "9"
+    ],
+    "events": [
+      "Valentine's Day",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/15",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/16",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "Presidents Day",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/17",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "Mardi Gras",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/18",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "Ash Wednesday",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/19",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/20",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/21",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/22",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/23",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/24",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/25",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/26",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/27",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/28",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/01",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/02",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/03",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/04",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/05",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/06",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/07",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/08",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/09",
+    "overall_score": "8",
+    "park_scores": [
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/10",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/11",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/12",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/13",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/14",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/15",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/16",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/17",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "St. Patrick's Day",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/18",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/19",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/20",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/21",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/22",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/23",
+    "overall_score": "8",
+    "park_scores": [
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/24",
+    "overall_score": "8",
+    "park_scores": [
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/25",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/26",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/27",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/28",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/29",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/30",
+    "overall_score": "8",
+    "park_scores": [
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/31",
+    "overall_score": "8",
+    "park_scores": [
+      "7",
+      "9"
+    ],
+    "events": [
+      "Cesar Chavez Day",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/01",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "10"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/02",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "10"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/03",
+    "overall_score": "9",
+    "park_scores": [
+      "9",
+      "10"
+    ],
+    "events": [
+      "Good Friday",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/04",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/05",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6"
+    ],
+    "events": [
+      "Easter Sunday",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/06",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "9"
+    ],
+    "events": [
+      "Easter Monday",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/07",
+    "overall_score": "8",
+    "park_scores": [
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/08",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/09",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/10",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/11",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/12",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/13",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/14",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/15",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/16",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/17",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/18",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/19",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/20",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/21",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/22",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/23",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/24",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/25",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/26",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/27",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/28",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/29",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/30",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/01",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/02",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/03",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/04",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/05",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "Cinco De Mayo",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/06",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/07",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/08",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/09",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/10",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4"
+    ],
+    "events": [
+      "Mother's Day",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/11",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/12",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/13",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/14",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/15",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/16",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/17",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/18",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/19",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/20",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/21",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/22",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/23",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: BL EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/24",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/25",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "Memorial Day",
+      "Blockouts: IM"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/26",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/27",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/28",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: None"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/29",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled",
+      "Blockouts: EN IM"
+    ],
+    "full_date": null
+  }
+]

@@ -1,9 +1,4 @@
 {
-  "2025/05/31": {
-    "full_date": "May 31, 2025",
-    "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: EN IM"
-  },
   "2025/06/01": {
     "full_date": "Jun 1, 2025",
     "crowd_size": 4,
@@ -1673,5 +1668,160 @@
     "full_date": "Apr 30, 2026",
     "crowd_size": 3,
     "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/01": {
+    "full_date": "May 1, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/05/02": {
+    "full_date": "May 2, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/05/03": {
+    "full_date": "May 3, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/05/04": {
+    "full_date": "May 4, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/05": {
+    "full_date": "May 5, 2026",
+    "crowd_size": 4,
+    "events": "Cinco De Mayo; Blockouts: None"
+  },
+  "2026/05/06": {
+    "full_date": "May 6, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/07": {
+    "full_date": "May 7, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/08": {
+    "full_date": "May 8, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/05/09": {
+    "full_date": "May 9, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/05/10": {
+    "full_date": "May 10, 2026",
+    "crowd_size": 3,
+    "events": "Mother's Day; Blockouts: IM"
+  },
+  "2026/05/11": {
+    "full_date": "May 11, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/12": {
+    "full_date": "May 12, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/13": {
+    "full_date": "May 13, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/14": {
+    "full_date": "May 14, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/15": {
+    "full_date": "May 15, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/05/16": {
+    "full_date": "May 16, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/05/17": {
+    "full_date": "May 17, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/05/18": {
+    "full_date": "May 18, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/19": {
+    "full_date": "May 19, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/20": {
+    "full_date": "May 20, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/21": {
+    "full_date": "May 21, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/22": {
+    "full_date": "May 22, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/05/23": {
+    "full_date": "May 23, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: BL EN IM"
+  },
+  "2026/05/24": {
+    "full_date": "May 24, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/05/25": {
+    "full_date": "May 25, 2026",
+    "crowd_size": 5,
+    "events": "Memorial Day; Blockouts: IM"
+  },
+  "2026/05/26": {
+    "full_date": "May 26, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/27": {
+    "full_date": "May 27, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/28": {
+    "full_date": "May 28, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/05/29": {
+    "full_date": "May 29, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/05/30": {
+    "full_date": "May 30, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/05/31": {
+    "full_date": "May 31, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: EN IM"
   }
 }

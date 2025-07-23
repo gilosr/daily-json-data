@@ -1,9 +1,4 @@
 {
-  "2025/07/21": {
-    "full_date": "Jul 21, 2025",
-    "crowd_size": 7,
-    "events": "No events scheduled; Blockouts: EN IM"
-  },
   "2025/07/22": {
     "full_date": "Jul 22, 2025",
     "crowd_size": 7,
@@ -16,32 +11,32 @@
   },
   "2025/07/24": {
     "full_date": "Jul 24, 2025",
-    "crowd_size": 7,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/07/25": {
     "full_date": "Jul 25, 2025",
-    "crowd_size": 5,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/07/26": {
     "full_date": "Jul 26, 2025",
-    "crowd_size": 6,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/07/27": {
     "full_date": "Jul 27, 2025",
-    "crowd_size": 5,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/07/28": {
     "full_date": "Jul 28, 2025",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/07/29": {
     "full_date": "Jul 29, 2025",
-    "crowd_size": 7,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/07/30": {
@@ -51,57 +46,57 @@
   },
   "2025/07/31": {
     "full_date": "Jul 31, 2025",
-    "crowd_size": 7,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/08/01": {
     "full_date": "Aug 1, 2025",
-    "crowd_size": 5,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/08/02": {
     "full_date": "Aug 2, 2025",
-    "crowd_size": 6,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/08/03": {
     "full_date": "Aug 3, 2025",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/08/04": {
     "full_date": "Aug 4, 2025",
-    "crowd_size": 7,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/08/05": {
     "full_date": "Aug 5, 2025",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/08/06": {
     "full_date": "Aug 6, 2025",
-    "crowd_size": 7,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/08/07": {
     "full_date": "Aug 7, 2025",
-    "crowd_size": 7,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/08/08": {
     "full_date": "Aug 8, 2025",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/08/09": {
     "full_date": "Aug 9, 2025",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/08/10": {
     "full_date": "Aug 10, 2025",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/08/11": {
@@ -121,7 +116,7 @@
   },
   "2025/08/14": {
     "full_date": "Aug 14, 2025",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/08/15": {
@@ -136,22 +131,22 @@
   },
   "2025/08/17": {
     "full_date": "Aug 17, 2025",
-    "crowd_size": 3,
+    "crowd_size": 2,
     "events": "Oogie Boogie Bash at CA; Blockouts: IM"
   },
   "2025/08/18": {
     "full_date": "Aug 18, 2025",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/08/19": {
     "full_date": "Aug 19, 2025",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/08/20": {
     "full_date": "Aug 20, 2025",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/08/21": {
@@ -161,17 +156,17 @@
   },
   "2025/08/22": {
     "full_date": "Aug 22, 2025",
-    "crowd_size": 3,
+    "crowd_size": 2,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/08/23": {
     "full_date": "Aug 23, 2025",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/08/24": {
     "full_date": "Aug 24, 2025",
-    "crowd_size": 3,
+    "crowd_size": 2,
     "events": "Oogie Boogie Bash at CA; Blockouts: IM"
   },
   "2025/08/25": {
@@ -186,17 +181,17 @@
   },
   "2025/08/27": {
     "full_date": "Aug 27, 2025",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/08/28": {
     "full_date": "Aug 28, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/08/29": {
     "full_date": "Aug 29, 2025",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/08/30": {
@@ -206,7 +201,7 @@
   },
   "2025/08/31": {
     "full_date": "Aug 31, 2025",
-    "crowd_size": 5,
+    "crowd_size": 3,
     "events": "Oogie Boogie Bash at CA; Blockouts: EN IM"
   },
   "2025/09/01": {
@@ -216,52 +211,52 @@
   },
   "2025/09/02": {
     "full_date": "Sep 2, 2025",
-    "crowd_size": 2,
+    "crowd_size": 5,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/09/03": {
     "full_date": "Sep 3, 2025",
-    "crowd_size": 2,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/09/04": {
     "full_date": "Sep 4, 2025",
-    "crowd_size": 2,
+    "crowd_size": 4,
     "events": "DL Halloween Half Marathon; Blockouts: None"
   },
   "2025/09/05": {
     "full_date": "Sep 5, 2025",
-    "crowd_size": 2,
+    "crowd_size": 4,
     "events": "DL Halloween Half Marathon; Blockouts: None"
   },
   "2025/09/06": {
     "full_date": "Sep 6, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "DL Halloween Half Marathon; Blockouts: EN IM"
   },
   "2025/09/07": {
     "full_date": "Sep 7, 2025",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "DL Halloween Half Marathon; Blockouts: IM"
   },
   "2025/09/08": {
     "full_date": "Sep 8, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/09/09": {
     "full_date": "Sep 9, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/09/10": {
     "full_date": "Sep 10, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/09/11": {
     "full_date": "Sep 11, 2025",
-    "crowd_size": 2,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/09/12": {
@@ -271,7 +266,7 @@
   },
   "2025/09/13": {
     "full_date": "Sep 13, 2025",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "Gay Days Anaheim; Blockouts: EN IM"
   },
   "2025/09/14": {
@@ -281,12 +276,12 @@
   },
   "2025/09/15": {
     "full_date": "Sep 15, 2025",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/09/16": {
     "full_date": "Sep 16, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/09/17": {
@@ -296,7 +291,7 @@
   },
   "2025/09/18": {
     "full_date": "Sep 18, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/09/19": {
@@ -316,47 +311,47 @@
   },
   "2025/09/22": {
     "full_date": "Sep 22, 2025",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/09/23": {
     "full_date": "Sep 23, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "Rosh Hashanah; Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/09/24": {
     "full_date": "Sep 24, 2025",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/09/25": {
     "full_date": "Sep 25, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/09/26": {
     "full_date": "Sep 26, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/09/27": {
     "full_date": "Sep 27, 2025",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/09/28": {
     "full_date": "Sep 28, 2025",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/09/29": {
     "full_date": "Sep 29, 2025",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/09/30": {
     "full_date": "Sep 30, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/10/01": {
@@ -366,12 +361,12 @@
   },
   "2025/10/02": {
     "full_date": "Oct 2, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "Yom Kippur; Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/10/03": {
     "full_date": "Oct 3, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/10/04": {
@@ -381,22 +376,22 @@
   },
   "2025/10/05": {
     "full_date": "Oct 5, 2025",
-    "crowd_size": 6,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: BL EN IM"
   },
   "2025/10/06": {
     "full_date": "Oct 6, 2025",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "Sukkot; Blockouts: IM"
   },
   "2025/10/07": {
     "full_date": "Oct 7, 2025",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "Oogie Boogie Bash at CA; Blockouts: IM"
   },
   "2025/10/08": {
     "full_date": "Oct 8, 2025",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/10/09": {
@@ -406,17 +401,17 @@
   },
   "2025/10/10": {
     "full_date": "Oct 10, 2025",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/10/11": {
     "full_date": "Oct 11, 2025",
-    "crowd_size": 9,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/10/12": {
     "full_date": "Oct 12, 2025",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "Oogie Boogie Bash at CA; Blockouts: BL EN IM"
   },
   "2025/10/13": {
@@ -426,17 +421,17 @@
   },
   "2025/10/14": {
     "full_date": "Oct 14, 2025",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "Shemini Atzeret; Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/10/15": {
     "full_date": "Oct 15, 2025",
-    "crowd_size": 7,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/10/16": {
     "full_date": "Oct 16, 2025",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/10/17": {
@@ -446,22 +441,22 @@
   },
   "2025/10/18": {
     "full_date": "Oct 18, 2025",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/10/19": {
     "full_date": "Oct 19, 2025",
-    "crowd_size": 6,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: EN IM"
   },
   "2025/10/20": {
     "full_date": "Oct 20, 2025",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/10/21": {
     "full_date": "Oct 21, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/10/22": {
@@ -471,22 +466,22 @@
   },
   "2025/10/23": {
     "full_date": "Oct 23, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/10/24": {
     "full_date": "Oct 24, 2025",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/10/25": {
     "full_date": "Oct 25, 2025",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/10/26": {
     "full_date": "Oct 26, 2025",
-    "crowd_size": 6,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: EN IM"
   },
   "2025/10/27": {
@@ -501,77 +496,77 @@
   },
   "2025/10/29": {
     "full_date": "Oct 29, 2025",
-    "crowd_size": 2,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/10/30": {
     "full_date": "Oct 30, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/10/31": {
     "full_date": "Oct 31, 2025",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Halloween; Nevada Day; Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2025/11/01": {
     "full_date": "Nov 1, 2025",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/11/02": {
     "full_date": "Nov 2, 2025",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/11/03": {
     "full_date": "Nov 3, 2025",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/11/04": {
     "full_date": "Nov 4, 2025",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "Election Day; Blockouts: None"
   },
   "2025/11/05": {
     "full_date": "Nov 5, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/11/06": {
     "full_date": "Nov 6, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/11/07": {
     "full_date": "Nov 7, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/11/08": {
     "full_date": "Nov 8, 2025",
-    "crowd_size": 7,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/11/09": {
     "full_date": "Nov 9, 2025",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/11/10": {
     "full_date": "Nov 10, 2025",
-    "crowd_size": 4,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/11/11": {
     "full_date": "Nov 11, 2025",
-    "crowd_size": 4,
+    "crowd_size": 7,
     "events": "Veterans Day; Blockouts: None"
   },
   "2025/11/12": {
     "full_date": "Nov 12, 2025",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/11/13": {
@@ -586,7 +581,7 @@
   },
   "2025/11/15": {
     "full_date": "Nov 15, 2025",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/11/16": {
@@ -596,22 +591,22 @@
   },
   "2025/11/17": {
     "full_date": "Nov 17, 2025",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/11/18": {
     "full_date": "Nov 18, 2025",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/11/19": {
     "full_date": "Nov 19, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/11/20": {
     "full_date": "Nov 20, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/11/21": {
@@ -626,17 +621,17 @@
   },
   "2025/11/23": {
     "full_date": "Nov 23, 2025",
-    "crowd_size": 7,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/11/24": {
     "full_date": "Nov 24, 2025",
-    "crowd_size": 9,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/11/25": {
     "full_date": "Nov 25, 2025",
-    "crowd_size": 8,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/11/26": {
@@ -661,32 +656,32 @@
   },
   "2025/11/30": {
     "full_date": "Nov 30, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/12/01": {
     "full_date": "Dec 1, 2025",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/12/02": {
     "full_date": "Dec 2, 2025",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/12/03": {
     "full_date": "Dec 3, 2025",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/12/04": {
     "full_date": "Dec 4, 2025",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/12/05": {
     "full_date": "Dec 5, 2025",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/12/06": {
@@ -696,7 +691,7 @@
   },
   "2025/12/07": {
     "full_date": "Dec 7, 2025",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/12/08": {
@@ -706,17 +701,17 @@
   },
   "2025/12/09": {
     "full_date": "Dec 9, 2025",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/12/10": {
     "full_date": "Dec 10, 2025",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/12/11": {
     "full_date": "Dec 11, 2025",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2025/12/12": {
@@ -726,22 +721,22 @@
   },
   "2025/12/13": {
     "full_date": "Dec 13, 2025",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/12/14": {
     "full_date": "Dec 14, 2025",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/12/15": {
     "full_date": "Dec 15, 2025",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "Hanukkah; Blockouts: IM"
   },
   "2025/12/16": {
     "full_date": "Dec 16, 2025",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2025/12/17": {
@@ -751,7 +746,7 @@
   },
   "2025/12/18": {
     "full_date": "Dec 18, 2025",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2025/12/19": {
@@ -761,27 +756,27 @@
   },
   "2025/12/20": {
     "full_date": "Dec 20, 2025",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/12/21": {
     "full_date": "Dec 21, 2025",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2025/12/22": {
     "full_date": "Dec 22, 2025",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IN BL EN IM"
   },
   "2025/12/23": {
     "full_date": "Dec 23, 2025",
-    "crowd_size": 6,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: IN BL EN IM"
   },
   "2025/12/24": {
     "full_date": "Dec 24, 2025",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "Christmas Eve; Blockouts: IN BL EN IM"
   },
   "2025/12/25": {
@@ -801,7 +796,7 @@
   },
   "2025/12/28": {
     "full_date": "Dec 28, 2025",
-    "crowd_size": 10,
+    "crowd_size": 9,
     "events": "No events scheduled; Blockouts: IN BL EN IM"
   },
   "2025/12/29": {
@@ -811,17 +806,17 @@
   },
   "2025/12/30": {
     "full_date": "Dec 30, 2025",
-    "crowd_size": 8,
+    "crowd_size": 9,
     "events": "No events scheduled; Blockouts: IN BL EN IM"
   },
   "2025/12/31": {
     "full_date": "Dec 31, 2025",
-    "crowd_size": 8,
+    "crowd_size": 9,
     "events": "New Year's Eve; Blockouts: IN BL EN IM"
   },
   "2026/01/01": {
     "full_date": "Jan 1, 2026",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "New Year's Day; Blockouts: BL EN IM"
   },
   "2026/01/02": {
@@ -831,7 +826,7 @@
   },
   "2026/01/03": {
     "full_date": "Jan 3, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2026/01/04": {
@@ -841,97 +836,97 @@
   },
   "2026/01/05": {
     "full_date": "Jan 5, 2026",
-    "crowd_size": 3,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/06": {
     "full_date": "Jan 6, 2026",
-    "crowd_size": 3,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/07": {
     "full_date": "Jan 7, 2026",
-    "crowd_size": 3,
+    "crowd_size": 8,
     "events": "Holidays at DLR Last day of; Blockouts: None"
   },
   "2026/01/08": {
     "full_date": "Jan 8, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/09": {
     "full_date": "Jan 9, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/10": {
     "full_date": "Jan 10, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/01/11": {
     "full_date": "Jan 11, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/12": {
     "full_date": "Jan 12, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/13": {
     "full_date": "Jan 13, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/14": {
     "full_date": "Jan 14, 2026",
-    "crowd_size": 2,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/15": {
     "full_date": "Jan 15, 2026",
-    "crowd_size": 2,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/16": {
     "full_date": "Jan 16, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/17": {
     "full_date": "Jan 17, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/01/18": {
     "full_date": "Jan 18, 2026",
-    "crowd_size": 6,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/01/19": {
     "full_date": "Jan 19, 2026",
-    "crowd_size": 5,
+    "crowd_size": 7,
     "events": "Birthday of Martin Luther King, Jr.; Blockouts: None"
   },
   "2026/01/20": {
     "full_date": "Jan 20, 2026",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/21": {
     "full_date": "Jan 21, 2026",
-    "crowd_size": 2,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/22": {
     "full_date": "Jan 22, 2026",
-    "crowd_size": 2,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/23": {
     "full_date": "Jan 23, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/24": {
@@ -941,32 +936,32 @@
   },
   "2026/01/25": {
     "full_date": "Jan 25, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/01/26": {
     "full_date": "Jan 26, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/27": {
     "full_date": "Jan 27, 2026",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/28": {
     "full_date": "Jan 28, 2026",
-    "crowd_size": 2,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/01/29": {
     "full_date": "Jan 29, 2026",
-    "crowd_size": 2,
+    "crowd_size": 5,
     "events": "Half Marathon Weekend; Blockouts: None"
   },
   "2026/01/30": {
     "full_date": "Jan 30, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "Half Marathon Weekend; Blockouts: None"
   },
   "2026/01/31": {
@@ -976,22 +971,22 @@
   },
   "2026/02/01": {
     "full_date": "Feb 1, 2026",
-    "crowd_size": 3,
-    "events": "Super Bowl Sunday; Half Marathon Weekend; Blockouts: IM"
+    "crowd_size": 4,
+    "events": "Half Marathon Weekend; Blockouts: IM"
   },
   "2026/02/02": {
     "full_date": "Feb 2, 2026",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/03": {
     "full_date": "Feb 3, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/04": {
     "full_date": "Feb 4, 2026",
-    "crowd_size": 3,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/05": {
@@ -1001,62 +996,62 @@
   },
   "2026/02/06": {
     "full_date": "Feb 6, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/07": {
     "full_date": "Feb 7, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/02/08": {
     "full_date": "Feb 8, 2026",
-    "crowd_size": 4,
-    "events": "No events scheduled; Blockouts: None"
+    "crowd_size": 5,
+    "events": "Super Bowl Sunday; Blockouts: None"
   },
   "2026/02/09": {
     "full_date": "Feb 9, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/10": {
     "full_date": "Feb 10, 2026",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/11": {
     "full_date": "Feb 11, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/12": {
     "full_date": "Feb 12, 2026",
-    "crowd_size": 6,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/13": {
     "full_date": "Feb 13, 2026",
-    "crowd_size": 8,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/02/14": {
     "full_date": "Feb 14, 2026",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "Valentine's Day; Blockouts: BL EN IM"
   },
   "2026/02/15": {
     "full_date": "Feb 15, 2026",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/02/16": {
     "full_date": "Feb 16, 2026",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "Presidents Day; Blockouts: IM"
   },
   "2026/02/17": {
     "full_date": "Feb 17, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "Mardi Gras; Blockouts: None"
   },
   "2026/02/18": {
@@ -1066,7 +1061,7 @@
   },
   "2026/02/19": {
     "full_date": "Feb 19, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/20": {
@@ -1076,32 +1071,32 @@
   },
   "2026/02/21": {
     "full_date": "Feb 21, 2026",
-    "crowd_size": 5,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/02/22": {
     "full_date": "Feb 22, 2026",
-    "crowd_size": 3,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/23": {
     "full_date": "Feb 23, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/24": {
     "full_date": "Feb 24, 2026",
-    "crowd_size": 3,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/25": {
     "full_date": "Feb 25, 2026",
-    "crowd_size": 4,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/26": {
     "full_date": "Feb 26, 2026",
-    "crowd_size": 5,
+    "crowd_size": 9,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/02/27": {
@@ -1111,52 +1106,52 @@
   },
   "2026/02/28": {
     "full_date": "Feb 28, 2026",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/03/01": {
     "full_date": "Mar 1, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/03/02": {
     "full_date": "Mar 2, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/03": {
     "full_date": "Mar 3, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/04": {
     "full_date": "Mar 4, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/05": {
     "full_date": "Mar 5, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/06": {
     "full_date": "Mar 6, 2026",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/07": {
     "full_date": "Mar 7, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/03/08": {
     "full_date": "Mar 8, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/03/09": {
     "full_date": "Mar 9, 2026",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/10": {
@@ -1166,12 +1161,12 @@
   },
   "2026/03/11": {
     "full_date": "Mar 11, 2026",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/12": {
     "full_date": "Mar 12, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/13": {
@@ -1181,7 +1176,7 @@
   },
   "2026/03/14": {
     "full_date": "Mar 14, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/03/15": {
@@ -1191,7 +1186,7 @@
   },
   "2026/03/16": {
     "full_date": "Mar 16, 2026",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/17": {
@@ -1201,17 +1196,17 @@
   },
   "2026/03/18": {
     "full_date": "Mar 18, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/19": {
     "full_date": "Mar 19, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/20": {
     "full_date": "Mar 20, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/21": {
@@ -1226,12 +1221,12 @@
   },
   "2026/03/23": {
     "full_date": "Mar 23, 2026",
-    "crowd_size": 8,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/24": {
     "full_date": "Mar 24, 2026",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/03/25": {
@@ -1251,7 +1246,7 @@
   },
   "2026/03/28": {
     "full_date": "Mar 28, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/03/29": {
@@ -1261,17 +1256,17 @@
   },
   "2026/03/30": {
     "full_date": "Mar 30, 2026",
-    "crowd_size": 8,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2026/03/31": {
     "full_date": "Mar 31, 2026",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "Cesar Chavez Day; Blockouts: BL EN IM"
   },
   "2026/04/01": {
     "full_date": "Apr 1, 2026",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2026/04/02": {
@@ -1281,27 +1276,27 @@
   },
   "2026/04/03": {
     "full_date": "Apr 3, 2026",
-    "crowd_size": 9,
+    "crowd_size": 8,
     "events": "Good Friday; Blockouts: BL EN IM"
   },
   "2026/04/04": {
     "full_date": "Apr 4, 2026",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2026/04/05": {
     "full_date": "Apr 5, 2026",
-    "crowd_size": 4,
+    "crowd_size": 7,
     "events": "Easter Sunday; Blockouts: BL EN IM"
   },
   "2026/04/06": {
     "full_date": "Apr 6, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "Easter Monday; Blockouts: EN IM"
   },
   "2026/04/07": {
     "full_date": "Apr 7, 2026",
-    "crowd_size": 8,
+    "crowd_size": 9,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/08": {
@@ -1321,62 +1316,62 @@
   },
   "2026/04/11": {
     "full_date": "Apr 11, 2026",
-    "crowd_size": 4,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/04/12": {
     "full_date": "Apr 12, 2026",
-    "crowd_size": 3,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/04/13": {
     "full_date": "Apr 13, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/14": {
     "full_date": "Apr 14, 2026",
-    "crowd_size": 5,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/15": {
     "full_date": "Apr 15, 2026",
-    "crowd_size": 6,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/16": {
     "full_date": "Apr 16, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/17": {
     "full_date": "Apr 17, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/04/18": {
     "full_date": "Apr 18, 2026",
-    "crowd_size": 5,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/04/19": {
     "full_date": "Apr 19, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/04/20": {
     "full_date": "Apr 20, 2026",
-    "crowd_size": 5,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/21": {
     "full_date": "Apr 21, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/22": {
     "full_date": "Apr 22, 2026",
-    "crowd_size": 5,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/23": {
@@ -1386,17 +1381,17 @@
   },
   "2026/04/24": {
     "full_date": "Apr 24, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/04/25": {
     "full_date": "Apr 25, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/04/26": {
     "full_date": "Apr 26, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/04/27": {
@@ -1406,22 +1401,22 @@
   },
   "2026/04/28": {
     "full_date": "Apr 28, 2026",
-    "crowd_size": 5,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/29": {
     "full_date": "Apr 29, 2026",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/04/30": {
     "full_date": "Apr 30, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/01": {
     "full_date": "May 1, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/05/02": {
@@ -1431,7 +1426,7 @@
   },
   "2026/05/03": {
     "full_date": "May 3, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/05/04": {
@@ -1446,47 +1441,47 @@
   },
   "2026/05/06": {
     "full_date": "May 6, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/07": {
     "full_date": "May 7, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/08": {
     "full_date": "May 8, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/05/09": {
     "full_date": "May 9, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/05/10": {
     "full_date": "May 10, 2026",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "Mother's Day; Blockouts: IM"
   },
   "2026/05/11": {
     "full_date": "May 11, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/12": {
     "full_date": "May 12, 2026",
-    "crowd_size": 5,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/13": {
     "full_date": "May 13, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/14": {
     "full_date": "May 14, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/15": {
@@ -1496,12 +1491,12 @@
   },
   "2026/05/16": {
     "full_date": "May 16, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/05/17": {
     "full_date": "May 17, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/05/18": {
@@ -1511,7 +1506,7 @@
   },
   "2026/05/19": {
     "full_date": "May 19, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/20": {
@@ -1521,57 +1516,57 @@
   },
   "2026/05/21": {
     "full_date": "May 21, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/22": {
     "full_date": "May 22, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/05/23": {
     "full_date": "May 23, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: BL EN IM"
   },
   "2026/05/24": {
     "full_date": "May 24, 2026",
-    "crowd_size": 5,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/05/25": {
     "full_date": "May 25, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "Memorial Day; Blockouts: IM"
   },
   "2026/05/26": {
     "full_date": "May 26, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/27": {
     "full_date": "May 27, 2026",
-    "crowd_size": 5,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/28": {
     "full_date": "May 28, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/05/29": {
     "full_date": "May 29, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/05/30": {
     "full_date": "May 30, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/05/31": {
     "full_date": "May 31, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/01": {
@@ -1581,97 +1576,97 @@
   },
   "2026/06/02": {
     "full_date": "Jun 2, 2026",
-    "crowd_size": 6,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/06/03": {
     "full_date": "Jun 3, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/06/04": {
     "full_date": "Jun 4, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/06/05": {
     "full_date": "Jun 5, 2026",
-    "crowd_size": 3,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/06": {
     "full_date": "Jun 6, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/07": {
     "full_date": "Jun 7, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/08": {
     "full_date": "Jun 8, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/09": {
     "full_date": "Jun 9, 2026",
-    "crowd_size": 6,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/10": {
     "full_date": "Jun 10, 2026",
-    "crowd_size": 6,
+    "crowd_size": 8,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/11": {
     "full_date": "Jun 11, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/12": {
     "full_date": "Jun 12, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/13": {
     "full_date": "Jun 13, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/14": {
     "full_date": "Jun 14, 2026",
-    "crowd_size": 3,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/15": {
     "full_date": "Jun 15, 2026",
-    "crowd_size": 6,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/16": {
     "full_date": "Jun 16, 2026",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/17": {
     "full_date": "Jun 17, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/18": {
     "full_date": "Jun 18, 2026",
-    "crowd_size": 6,
+    "crowd_size": 9,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/19": {
     "full_date": "Jun 19, 2026",
-    "crowd_size": 5,
+    "crowd_size": 7,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/20": {
     "full_date": "Jun 20, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/21": {
@@ -1686,17 +1681,17 @@
   },
   "2026/06/23": {
     "full_date": "Jun 23, 2026",
-    "crowd_size": 6,
+    "crowd_size": 9,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/24": {
     "full_date": "Jun 24, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/25": {
     "full_date": "Jun 25, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/26": {
@@ -1706,7 +1701,7 @@
   },
   "2026/06/27": {
     "full_date": "Jun 27, 2026",
-    "crowd_size": 4,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: EN IM"
   },
   "2026/06/28": {
@@ -1721,7 +1716,7 @@
   },
   "2026/06/30": {
     "full_date": "Jun 30, 2026",
-    "crowd_size": 5,
+    "crowd_size": 9,
     "events": "No events scheduled; Blockouts: EN IM"
   }
 }

@@ -1,9 +1,4 @@
 {
-  "2025/07/31": {
-    "full_date": "Jul 31, 2025",
-    "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
-  },
   "2025/08/01": {
     "full_date": "Aug 1, 2025",
     "crowd_size": 3,
@@ -1672,6 +1667,161 @@
   "2026/06/30": {
     "full_date": "Jun 30, 2026",
     "crowd_size": 9,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/01": {
+    "full_date": "Jul 1, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/02": {
+    "full_date": "Jul 2, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/03": {
+    "full_date": "Jul 3, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/04": {
+    "full_date": "Jul 4, 2026",
+    "crowd_size": 5,
+    "events": "Independence Day; Blockouts: BL EN IM"
+  },
+  "2026/07/05": {
+    "full_date": "Jul 5, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/06": {
+    "full_date": "Jul 6, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/07": {
+    "full_date": "Jul 7, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/08": {
+    "full_date": "Jul 8, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/09": {
+    "full_date": "Jul 9, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/10": {
+    "full_date": "Jul 10, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/11": {
+    "full_date": "Jul 11, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/12": {
+    "full_date": "Jul 12, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/13": {
+    "full_date": "Jul 13, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/14": {
+    "full_date": "Jul 14, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/15": {
+    "full_date": "Jul 15, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/16": {
+    "full_date": "Jul 16, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/17": {
+    "full_date": "Jul 17, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/18": {
+    "full_date": "Jul 18, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/19": {
+    "full_date": "Jul 19, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/20": {
+    "full_date": "Jul 20, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/21": {
+    "full_date": "Jul 21, 2026",
+    "crowd_size": 8,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/22": {
+    "full_date": "Jul 22, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/23": {
+    "full_date": "Jul 23, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/24": {
+    "full_date": "Jul 24, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/25": {
+    "full_date": "Jul 25, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/26": {
+    "full_date": "Jul 26, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/27": {
+    "full_date": "Jul 27, 2026",
+    "crowd_size": 8,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/28": {
+    "full_date": "Jul 28, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/29": {
+    "full_date": "Jul 29, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/30": {
+    "full_date": "Jul 30, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/07/31": {
+    "full_date": "Jul 31, 2026",
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: EN IM"
   }
 }

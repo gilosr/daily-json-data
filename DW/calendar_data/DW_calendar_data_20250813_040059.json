@@ -1,0 +1,5219 @@
+[
+  {
+    "date": "2025/08/13",
+    "overall_score": "4",
+    "park_scores": [
+      "6",
+      "2",
+      "4",
+      "5"
+    ],
+    "events": [
+      "H2O Glow Nights at TL",
+      "Extended Evening Theme Park Hours at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/14",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4",
+      "3",
+      "4"
+    ],
+    "events": [
+      "EPCOT After Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/15",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "2",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/16",
+    "overall_score": "3",
+    "park_scores": [
+      "4",
+      "2",
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/17",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/18",
+    "overall_score": "3",
+    "park_scores": [
+      "4",
+      "3",
+      "3",
+      "3"
+    ],
+    "events": [
+      "H2O Glow Nights at TL",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/19",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "2",
+      "3",
+      "4"
+    ],
+    "events": [
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/20",
+    "overall_score": "3",
+    "park_scores": [
+      "4",
+      "2",
+      "3",
+      "4"
+    ],
+    "events": [
+      "HS After Hours at HS",
+      "Extended Evening Theme Park Hours at AK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/21",
+    "overall_score": "3",
+    "park_scores": [
+      "4",
+      "2",
+      "3",
+      "4"
+    ],
+    "events": [
+      "EPCOT After Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/22",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2",
+      "2",
+      "3"
+    ],
+    "events": [
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/23",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3",
+      "3",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/24",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2",
+      "3",
+      "5"
+    ],
+    "events": [
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/25",
+    "overall_score": "3",
+    "park_scores": [
+      "4",
+      "2",
+      "3",
+      "3"
+    ],
+    "events": [
+      "H2O Glow Nights at TL",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/26",
+    "overall_score": "2",
+    "park_scores": [
+      "2",
+      "2",
+      "3",
+      "4"
+    ],
+    "events": [
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/27",
+    "overall_score": "2",
+    "park_scores": [
+      "3",
+      "1",
+      "2",
+      "3"
+    ],
+    "events": [
+      "HS After Hours at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/28",
+    "overall_score": "3",
+    "park_scores": [
+      "4",
+      "2",
+      "3",
+      "3"
+    ],
+    "events": [
+      "EPCOT After Hours at EP",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/29",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "2",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK",
+      "Extended Evening Theme Park Hours at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/30",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "3",
+      "3",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/08/31",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "3",
+      "4",
+      "4"
+    ],
+    "events": [
+      "H2O Glow Nights at TL",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/01",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "3",
+      "4",
+      "6"
+    ],
+    "events": [
+      "Labor Day",
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/02",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "2",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/03",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "2",
+      "3",
+      "3"
+    ],
+    "events": [
+      "HS After Hours at HS",
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/04",
+    "overall_score": "4",
+    "park_scores": [
+      "6",
+      "3",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/05",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/06",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "5",
+      "5"
+    ],
+    "events": [
+      "H2O Glow Nights at TL",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/07",
+    "overall_score": "5",
+    "park_scores": [
+      "3",
+      "5",
+      "6",
+      "6"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/08",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/09",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/10",
+    "overall_score": "4",
+    "park_scores": [
+      "6",
+      "3",
+      "3",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/11",
+    "overall_score": "4",
+    "park_scores": [
+      "6",
+      "3",
+      "4",
+      "4"
+    ],
+    "events": [
+      "EPCOT After Hours at EP",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/12",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/13",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "H2O Glow Nights at TL",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/14",
+    "overall_score": "4",
+    "park_scores": [
+      "2",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/15",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "5",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/16",
+    "overall_score": "4",
+    "park_scores": [
+      "2",
+      "3",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/17",
+    "overall_score": "4",
+    "park_scores": [
+      "6",
+      "3",
+      "3",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/18",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "2",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/19",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "3",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/20",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/21",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/22",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "5",
+      "3",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/23",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Rosh Hashanah",
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/24",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "3",
+      "4",
+      "2"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/25",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "3",
+      "4",
+      "3"
+    ],
+    "events": [
+      "EPCOT After Hours at EP",
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/26",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "4",
+      "5",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/27",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "4",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/28",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "6",
+      "5",
+      "6"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/29",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "5",
+      "3",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/09/30",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/01",
+    "overall_score": "4",
+    "park_scores": [
+      "7",
+      "3",
+      "3",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/02",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Yom Kippur",
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/03",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "4",
+      "4",
+      "7"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/04",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/05",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3",
+      "3",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/06",
+    "overall_score": "5",
+    "park_scores": [
+      "8",
+      "4",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Sukkot",
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/07",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/08",
+    "overall_score": "5",
+    "park_scores": [
+      "10",
+      "3",
+      "1",
+      "1"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/09",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "5",
+      "7",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/10",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4",
+      "5",
+      "7"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/11",
+    "overall_score": "7",
+    "park_scores": [
+      "9",
+      "5",
+      "5",
+      "6"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/12",
+    "overall_score": "7",
+    "park_scores": [
+      "9",
+      "5",
+      "5",
+      "7"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/13",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "7",
+      "7",
+      "7"
+    ],
+    "events": [
+      "Columbus Day",
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/14",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "5",
+      "6",
+      "4"
+    ],
+    "events": [
+      "Shemini Atzeret",
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/15",
+    "overall_score": "6",
+    "park_scores": [
+      "9",
+      "3",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/16",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4",
+      "5",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/17",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/18",
+    "overall_score": "7",
+    "park_scores": [
+      "9",
+      "5",
+      "4",
+      "6"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/19",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "4",
+      "5",
+      "6"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/20",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "5",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/21",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "MK Closes Early",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/22",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "3",
+      "3",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Extended Evening Theme Park Hours at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/23",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3",
+      "4",
+      "2"
+    ],
+    "events": [
+      "Wine & Dine Half Weekend",
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/24",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "4",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Wine & Dine Half Weekend",
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/25",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Wine & Dine Half Weekend",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/26",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Wine & Dine Half Weekend",
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/27",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "5",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/28",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "3",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/29",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "3",
+      "3",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/30",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "3",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/10/31",
+    "overall_score": "3",
+    "park_scores": [
+      "4",
+      "3",
+      "3",
+      "2"
+    ],
+    "events": [
+      "Halloween",
+      "Food & Wine Festival at EP",
+      "Halloween Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/01",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "5",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/02",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/03",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/04",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "6",
+      "6",
+      "6"
+    ],
+    "events": [
+      "Election Day",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/05",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/06",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "4",
+      "4",
+      "3"
+    ],
+    "events": [
+      "New Jersey Education Association Convention",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/07",
+    "overall_score": "5",
+    "park_scores": [
+      "3",
+      "4",
+      "7",
+      "6"
+    ],
+    "events": [
+      "New Jersey Education Association Convention",
+      "Food & Wine Festival at EP",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/08",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6",
+      "5",
+      "7"
+    ],
+    "events": [
+      "Jollywood Nights at HS",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/09",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6",
+      "5",
+      "6"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/10",
+    "overall_score": "6",
+    "park_scores": [
+      "4",
+      "8",
+      "7",
+      "8"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/11",
+    "overall_score": "6",
+    "park_scores": [
+      "4",
+      "7",
+      "6",
+      "8"
+    ],
+    "events": [
+      "Veterans Day",
+      "Food & Wine Festival at EP",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/12",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/13",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/14",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "6",
+      "9",
+      "8"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Holiday Activities First day of",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/15",
+    "overall_score": "6",
+    "park_scores": [
+      "9",
+      "4",
+      "3",
+      "4"
+    ],
+    "events": [
+      "Jollywood Nights at HS",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/16",
+    "overall_score": "5",
+    "park_scores": [
+      "4",
+      "4",
+      "7",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/17",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "7",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Jollywood Nights at HS",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/18",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5",
+      "5",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/19",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/20",
+    "overall_score": "3",
+    "park_scores": [
+      "3",
+      "4",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/21",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Food & Wine Festival at EP",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/22",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "4",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Jollywood Nights at HS",
+      "Food & Wine Festival at EP"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/23",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4",
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/24",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Jollywood Nights at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/25",
+    "overall_score": "6",
+    "park_scores": [
+      "3",
+      "6",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/26",
+    "overall_score": "6",
+    "park_scores": [
+      "3",
+      "5",
+      "7",
+      "8"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/27",
+    "overall_score": "6",
+    "park_scores": [
+      "9",
+      "6",
+      "6",
+      "5"
+    ],
+    "events": [
+      "Thanksgiving"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/28",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "7",
+      "7",
+      "6"
+    ],
+    "events": [
+      "Festival of Holidays at EP First day of",
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/29",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Jollywood Nights at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/11/30",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/01",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Jollywood Nights at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/02",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/03",
+    "overall_score": "4",
+    "park_scores": [
+      "6",
+      "4",
+      "2",
+      "2"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/04",
+    "overall_score": "4",
+    "park_scores": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/05",
+    "overall_score": "5",
+    "park_scores": [
+      "3",
+      "5",
+      "7",
+      "7"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/06",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6",
+      "3",
+      "7"
+    ],
+    "events": [
+      "Jollywood Nights at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/07",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "5",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/08",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/09",
+    "overall_score": "4",
+    "park_scores": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/10",
+    "overall_score": "4",
+    "park_scores": [
+      "6",
+      "3",
+      "2",
+      "3"
+    ],
+    "events": [
+      "Jollywood Nights at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/11",
+    "overall_score": "3",
+    "park_scores": [
+      "2",
+      "5",
+      "3",
+      "2"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/12",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/13",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6",
+      "3",
+      "6"
+    ],
+    "events": [
+      "Jollywood Nights at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/14",
+    "overall_score": "4",
+    "park_scores": [
+      "2",
+      "5",
+      "4",
+      "4"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/15",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Hanukkah"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/16",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/17",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "5",
+      "3",
+      "4"
+    ],
+    "events": [
+      "Jollywood Nights at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/18",
+    "overall_score": "4",
+    "park_scores": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/19",
+    "overall_score": "4",
+    "park_scores": [
+      "2",
+      "5",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/20",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "5",
+      "3",
+      "4"
+    ],
+    "events": [
+      "Jollywood Nights at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/21",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "6",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Christmas Party at MK"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/22",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "4",
+      "7"
+    ],
+    "events": [
+      "Jollywood Nights at HS"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/23",
+    "overall_score": "7",
+    "park_scores": [
+      "9",
+      "5",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/24",
+    "overall_score": "7",
+    "park_scores": [
+      "9",
+      "5",
+      "7",
+      "5"
+    ],
+    "events": [
+      "Christmas Eve"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/25",
+    "overall_score": "7",
+    "park_scores": [
+      "10",
+      "6",
+      "7",
+      "5"
+    ],
+    "events": [
+      "Christmas Day"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/26",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "6",
+      "9",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/27",
+    "overall_score": "10",
+    "park_scores": [
+      "10",
+      "9",
+      "10",
+      "10"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/28",
+    "overall_score": "10",
+    "park_scores": [
+      "9",
+      "9",
+      "10",
+      "10"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/29",
+    "overall_score": "9",
+    "park_scores": [
+      "9",
+      "9",
+      "10",
+      "10"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/30",
+    "overall_score": "10",
+    "park_scores": [
+      "10",
+      "10",
+      "10",
+      "10"
+    ],
+    "events": [
+      "Festival of Holidays at EP Last day of"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2025/12/31",
+    "overall_score": "10",
+    "park_scores": [
+      "10",
+      "10",
+      "9",
+      "9"
+    ],
+    "events": [
+      "New Year's Eve",
+      "Holiday Activities Last day of"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/01",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "8",
+      "7"
+    ],
+    "events": [
+      "New Year's Day"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/02",
+    "overall_score": "9",
+    "park_scores": [
+      "10",
+      "7",
+      "10",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/03",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "6",
+      "9",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/04",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "5",
+      "9",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/05",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "8",
+      "8",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/06",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "5",
+      "8",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/07",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "6",
+      "9",
+      "8"
+    ],
+    "events": [
+      "WDW Marathon Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/08",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "3",
+      "7",
+      "4"
+    ],
+    "events": [
+      "WDW Marathon Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/09",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "7",
+      "5"
+    ],
+    "events": [
+      "WDW Marathon Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/10",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "7"
+    ],
+    "events": [
+      "WDW Marathon Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/11",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "3",
+      "7",
+      "5"
+    ],
+    "events": [
+      "WDW Marathon Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/12",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/13",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "3",
+      "6",
+      "3"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/14",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/15",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/16",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "5",
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/17",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/18",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6",
+      "5",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/19",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6",
+      "5",
+      "7"
+    ],
+    "events": [
+      "Birthday of Martin Luther King, Jr."
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/20",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "4",
+      "3"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/21",
+    "overall_score": "4",
+    "park_scores": [
+      "6",
+      "3",
+      "4",
+      "3"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/22",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "7",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/23",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "5",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/24",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "5",
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/25",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/26",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7",
+      "8",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/27",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "7",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/28",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/29",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "7",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/30",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "5",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/01/31",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "5",
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/01",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/02",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/03",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/04",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "3"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/05",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/06",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/07",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6",
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/08",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "5",
+      "8",
+      "8"
+    ],
+    "events": [
+      "Super Bowl Sunday"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/09",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/10",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/11",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/12",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/13",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "6",
+      "8",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/14",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "7",
+      "8"
+    ],
+    "events": [
+      "Valentine's Day"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/15",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "8",
+      "9",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/16",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "6",
+      "8",
+      "9"
+    ],
+    "events": [
+      "Presidents Day"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/17",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "6",
+      "9",
+      "9"
+    ],
+    "events": [
+      "Mardi Gras"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/18",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "6",
+      "5"
+    ],
+    "events": [
+      "Ash Wednesday"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/19",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/20",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6",
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/21",
+    "overall_score": "7",
+    "park_scores": [
+      "6",
+      "6",
+      "9",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/22",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "4",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/23",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6",
+      "7",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/24",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "8",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/25",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "3"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/26",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "4"
+    ],
+    "events": [
+      "Princess Half Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/27",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "7",
+      "6"
+    ],
+    "events": [
+      "Princess Half Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/02/28",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6",
+      "7",
+      "8"
+    ],
+    "events": [
+      "Princess Half Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/01",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "5",
+      "6",
+      "8"
+    ],
+    "events": [
+      "Princess Half Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/02",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "7",
+      "7",
+      "8"
+    ],
+    "events": [
+      "Princess Half Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/03",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "4",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/04",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/05",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/06",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/07",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/08",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/09",
+    "overall_score": "8",
+    "park_scores": [
+      "10",
+      "8",
+      "8",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/10",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "6",
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/11",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/12",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/13",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/14",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "5",
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/15",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/16",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/17",
+    "overall_score": "7",
+    "park_scores": [
+      "9",
+      "5",
+      "6",
+      "7"
+    ],
+    "events": [
+      "St. Patrick's Day"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/18",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "5",
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/19",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/20",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/21",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/22",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6",
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/23",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "7",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/24",
+    "overall_score": "8",
+    "park_scores": [
+      "10",
+      "7",
+      "8",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/25",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "7",
+      "8",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/26",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "6",
+      "8",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/27",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "5",
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/28",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/29",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "6",
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/30",
+    "overall_score": "8",
+    "park_scores": [
+      "9",
+      "7",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/03/31",
+    "overall_score": "8",
+    "park_scores": [
+      "10",
+      "7",
+      "8",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/01",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/02",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/03",
+    "overall_score": "8",
+    "park_scores": [
+      "8",
+      "7",
+      "8",
+      "9"
+    ],
+    "events": [
+      "Good Friday"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/04",
+    "overall_score": "8",
+    "park_scores": [
+      "7",
+      "7",
+      "8",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/05",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "5",
+      "5"
+    ],
+    "events": [
+      "Easter Sunday"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/06",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "7",
+      "6",
+      "7"
+    ],
+    "events": [
+      "Easter Monday"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/07",
+    "overall_score": "9",
+    "park_scores": [
+      "9",
+      "8",
+      "9",
+      "9"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/08",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/09",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/10",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/11",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/12",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/13",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/14",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/15",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/16",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "5"
+    ],
+    "events": [
+      "Springtime Surprise Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/17",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "6"
+    ],
+    "events": [
+      "Springtime Surprise Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/18",
+    "overall_score": "6",
+    "park_scores": [
+      "5",
+      "6",
+      "6",
+      "5"
+    ],
+    "events": [
+      "Springtime Surprise Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/19",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "Springtime Surprise Weekend"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/20",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/21",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/22",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/23",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/24",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/25",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/26",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/27",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "6",
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/28",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/29",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/04/30",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/01",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/02",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/03",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/04",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/05",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "events": [
+      "Cinco De Mayo"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/06",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "4",
+      "3",
+      "3"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/07",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "3",
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/08",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/09",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/10",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "4",
+      "6"
+    ],
+    "events": [
+      "Mother's Day"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/11",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/12",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "3",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/13",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "5",
+      "3"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/14",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/15",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/16",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/17",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/18",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/19",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/20",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "5",
+      "3"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/21",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "4",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/22",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/23",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "4",
+      "5",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/24",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "4",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/25",
+    "overall_score": "4",
+    "park_scores": [
+      "3",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "Memorial Day"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/26",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/27",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/28",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/29",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/30",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/05/31",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "4",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/01",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "8",
+      "6",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/02",
+    "overall_score": "7",
+    "park_scores": [
+      "7",
+      "4",
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/03",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/04",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/05",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/06",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/07",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/08",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/09",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/10",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/11",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/12",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "3",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/13",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "3",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/14",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "2",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/15",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/16",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/17",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "3",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/18",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/19",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "8"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/20",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/21",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "3",
+      "5",
+      "4"
+    ],
+    "events": [
+      "Father's Day"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/22",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/23",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "4",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/24",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/25",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/26",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/27",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/28",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "3",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/29",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/06/30",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "4",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/01",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "2",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/02",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "2",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/03",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "events": [
+      "July 4th Activities First day of"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/04",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "4",
+      "3"
+    ],
+    "events": [
+      "Independence Day",
+      "July 4th Activities Last day of"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/05",
+    "overall_score": "4",
+    "park_scores": [
+      "4",
+      "2",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/06",
+    "overall_score": "5",
+    "park_scores": [
+      "7",
+      "4",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/07",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/08",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/09",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/10",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/11",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/12",
+    "overall_score": "4",
+    "park_scores": [
+      "5",
+      "3",
+      "5",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/13",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/14",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "3",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/15",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "7",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/16",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/17",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/18",
+    "overall_score": "5",
+    "park_scores": [
+      "5",
+      "3",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/19",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/20",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "5",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/21",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/22",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "3",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/23",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/24",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/25",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/26",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "2",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/27",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/28",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "3",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/29",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "3",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/30",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/07/31",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "4",
+      "7",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/01",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "6",
+      "7"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/02",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "2",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/03",
+    "overall_score": "6",
+    "park_scores": [
+      "6",
+      "5",
+      "5",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/04",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/05",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "3",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/06",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/07",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "3",
+      "6",
+      "6"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/08",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "3",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/09",
+    "overall_score": "5",
+    "park_scores": [
+      "6",
+      "3",
+      "6",
+      "4"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/10",
+    "overall_score": "7",
+    "park_scores": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/11",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/12",
+    "overall_score": "6",
+    "park_scores": [
+      "8",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  },
+  {
+    "date": "2026/08/13",
+    "overall_score": "6",
+    "park_scores": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "events": [
+      "No events scheduled"
+    ],
+    "full_date": null
+  }
+]

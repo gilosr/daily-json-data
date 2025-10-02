@@ -1,9 +1,4 @@
 {
-  "2025/09/30": {
-    "full_date": "Sep 30, 2025",
-    "crowd_size": 3,
-    "events": "Food & Wine Festival at EP; Halloween Party at MK"
-  },
   "2025/10/01": {
     "full_date": "Oct 1, 2025",
     "crowd_size": 4,
@@ -1676,6 +1671,156 @@
   },
   "2026/08/31": {
     "full_date": "Aug 31, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/01": {
+    "full_date": "Sep 1, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/09/02": {
+    "full_date": "Sep 2, 2026",
+    "crowd_size": 5,
+    "events": "HS After Hours at HS"
+  },
+  "2026/09/03": {
+    "full_date": "Sep 3, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/04": {
+    "full_date": "Sep 4, 2026",
+    "crowd_size": 2,
+    "events": "No events scheduled"
+  },
+  "2026/09/05": {
+    "full_date": "Sep 5, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/06": {
+    "full_date": "Sep 6, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/09/07": {
+    "full_date": "Sep 7, 2026",
+    "crowd_size": 4,
+    "events": "Labor Day"
+  },
+  "2026/09/08": {
+    "full_date": "Sep 8, 2026",
+    "crowd_size": 2,
+    "events": "No events scheduled"
+  },
+  "2026/09/09": {
+    "full_date": "Sep 9, 2026",
+    "crowd_size": 3,
+    "events": "No events scheduled"
+  },
+  "2026/09/10": {
+    "full_date": "Sep 10, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/11": {
+    "full_date": "Sep 11, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/09/12": {
+    "full_date": "Sep 12, 2026",
+    "crowd_size": 6,
+    "events": "HS After Hours at HS"
+  },
+  "2026/09/13": {
+    "full_date": "Sep 13, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/09/14": {
+    "full_date": "Sep 14, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/15": {
+    "full_date": "Sep 15, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/09/16": {
+    "full_date": "Sep 16, 2026",
+    "crowd_size": 5,
+    "events": "EP After Hours at EP"
+  },
+  "2026/09/17": {
+    "full_date": "Sep 17, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/18": {
+    "full_date": "Sep 18, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/09/19": {
+    "full_date": "Sep 19, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/20": {
+    "full_date": "Sep 20, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/21": {
+    "full_date": "Sep 21, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled"
+  },
+  "2026/09/22": {
+    "full_date": "Sep 22, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/09/23": {
+    "full_date": "Sep 23, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/24": {
+    "full_date": "Sep 24, 2026",
+    "crowd_size": 4,
+    "events": "EP After Hours at EP"
+  },
+  "2026/09/25": {
+    "full_date": "Sep 25, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/26": {
+    "full_date": "Sep 26, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/27": {
+    "full_date": "Sep 27, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/09/28": {
+    "full_date": "Sep 28, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/09/29": {
+    "full_date": "Sep 29, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/09/30": {
+    "full_date": "Sep 30, 2026",
     "crowd_size": 5,
     "events": "No events scheduled"
   }

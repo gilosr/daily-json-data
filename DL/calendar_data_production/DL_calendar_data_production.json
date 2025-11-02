@@ -1,9 +1,4 @@
 {
-  "2025/10/31": {
-    "full_date": "Oct 31, 2025",
-    "crowd_size": 3,
-    "events": "Halloween; Nevada Day; Oogie Boogie Bash at CA; Blockouts: None"
-  },
   "2025/11/01": {
     "full_date": "Nov 1, 2025",
     "crowd_size": 4,
@@ -1673,5 +1668,160 @@
     "full_date": "Sep 30, 2026",
     "crowd_size": 7,
     "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/01": {
+    "full_date": "Oct 1, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/02": {
+    "full_date": "Oct 2, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/10/03": {
+    "full_date": "Oct 3, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: BL EN IM"
+  },
+  "2026/10/04": {
+    "full_date": "Oct 4, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: BL EN IM"
+  },
+  "2026/10/05": {
+    "full_date": "Oct 5, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/10/06": {
+    "full_date": "Oct 6, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/10/07": {
+    "full_date": "Oct 7, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/10/08": {
+    "full_date": "Oct 8, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/10/09": {
+    "full_date": "Oct 9, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/10/10": {
+    "full_date": "Oct 10, 2026",
+    "crowd_size": 9,
+    "events": "No events scheduled; Blockouts: BL EN IM"
+  },
+  "2026/10/11": {
+    "full_date": "Oct 11, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: BL EN IM"
+  },
+  "2026/10/12": {
+    "full_date": "Oct 12, 2026",
+    "crowd_size": 8,
+    "events": "Columbus Day; Blockouts: IM"
+  },
+  "2026/10/13": {
+    "full_date": "Oct 13, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/14": {
+    "full_date": "Oct 14, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/15": {
+    "full_date": "Oct 15, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/16": {
+    "full_date": "Oct 16, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/10/17": {
+    "full_date": "Oct 17, 2026",
+    "crowd_size": 8,
+    "events": "No events scheduled; Blockouts: BL EN IM"
+  },
+  "2026/10/18": {
+    "full_date": "Oct 18, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/10/19": {
+    "full_date": "Oct 19, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/20": {
+    "full_date": "Oct 20, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/21": {
+    "full_date": "Oct 21, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/22": {
+    "full_date": "Oct 22, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/23": {
+    "full_date": "Oct 23, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2026/10/24": {
+    "full_date": "Oct 24, 2026",
+    "crowd_size": 8,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/10/25": {
+    "full_date": "Oct 25, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM"
+  },
+  "2026/10/26": {
+    "full_date": "Oct 26, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/27": {
+    "full_date": "Oct 27, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/28": {
+    "full_date": "Oct 28, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/29": {
+    "full_date": "Oct 29, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2026/10/30": {
+    "full_date": "Oct 30, 2026",
+    "crowd_size": 4,
+    "events": "Nevada Day; Blockouts: None"
+  },
+  "2026/10/31": {
+    "full_date": "Oct 31, 2026",
+    "crowd_size": 3,
+    "events": "Halloween; Blockouts: BL EN IM"
   }
 }

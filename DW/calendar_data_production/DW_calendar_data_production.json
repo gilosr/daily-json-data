@@ -1,9 +1,4 @@
 {
-  "2025/11/30": {
-    "full_date": "Nov 30, 2025",
-    "crowd_size": 3,
-    "events": "Festival of Holidays at EP; Christmas Party at MK"
-  },
   "2025/12/01": {
     "full_date": "Dec 1, 2025",
     "crowd_size": 6,
@@ -1678,5 +1673,155 @@
     "full_date": "Oct 31, 2026",
     "crowd_size": 2,
     "events": "Halloween"
+  },
+  "2026/11/01": {
+    "full_date": "Nov 1, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/11/02": {
+    "full_date": "Nov 2, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled"
+  },
+  "2026/11/03": {
+    "full_date": "Nov 3, 2026",
+    "crowd_size": 6,
+    "events": "Election Day"
+  },
+  "2026/11/04": {
+    "full_date": "Nov 4, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/05": {
+    "full_date": "Nov 5, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/06": {
+    "full_date": "Nov 6, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/11/07": {
+    "full_date": "Nov 7, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/08": {
+    "full_date": "Nov 8, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled"
+  },
+  "2026/11/09": {
+    "full_date": "Nov 9, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled"
+  },
+  "2026/11/10": {
+    "full_date": "Nov 10, 2026",
+    "crowd_size": 3,
+    "events": "No events scheduled"
+  },
+  "2026/11/11": {
+    "full_date": "Nov 11, 2026",
+    "crowd_size": 5,
+    "events": "Veterans Day"
+  },
+  "2026/11/12": {
+    "full_date": "Nov 12, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/11/13": {
+    "full_date": "Nov 13, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled"
+  },
+  "2026/11/14": {
+    "full_date": "Nov 14, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/15": {
+    "full_date": "Nov 15, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/16": {
+    "full_date": "Nov 16, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled"
+  },
+  "2026/11/17": {
+    "full_date": "Nov 17, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/18": {
+    "full_date": "Nov 18, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/11/19": {
+    "full_date": "Nov 19, 2026",
+    "crowd_size": 4,
+    "events": "No events scheduled"
+  },
+  "2026/11/20": {
+    "full_date": "Nov 20, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/21": {
+    "full_date": "Nov 21, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled"
+  },
+  "2026/11/22": {
+    "full_date": "Nov 22, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/23": {
+    "full_date": "Nov 23, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled"
+  },
+  "2026/11/24": {
+    "full_date": "Nov 24, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/25": {
+    "full_date": "Nov 25, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/26": {
+    "full_date": "Nov 26, 2026",
+    "crowd_size": 6,
+    "events": "Thanksgiving"
+  },
+  "2026/11/27": {
+    "full_date": "Nov 27, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/28": {
+    "full_date": "Nov 28, 2026",
+    "crowd_size": 6,
+    "events": "No events scheduled"
+  },
+  "2026/11/29": {
+    "full_date": "Nov 29, 2026",
+    "crowd_size": 5,
+    "events": "No events scheduled"
+  },
+  "2026/11/30": {
+    "full_date": "Nov 30, 2026",
+    "crowd_size": 7,
+    "events": "No events scheduled"
   }
 }

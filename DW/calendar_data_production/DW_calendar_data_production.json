@@ -1,9 +1,4 @@
 {
-  "2025/12/02": {
-    "full_date": "Dec 2, 2025",
-    "crowd_size": 3,
-    "events": "Festival of Holidays at EP; Christmas Party at MK"
-  },
   "2025/12/03": {
     "full_date": "Dec 3, 2025",
     "crowd_size": 4,
@@ -357,7 +352,7 @@
   "2026/02/11": {
     "full_date": "Feb 11, 2026",
     "crowd_size": 5,
-    "events": "HS After Hours at HS; Festival of the Arts at EP"
+    "events": "HS After Hours at HS; Festival of the Arts at EP; Extended Evening Theme Park Hours at MK"
   },
   "2026/02/12": {
     "full_date": "Feb 12, 2026",
@@ -462,47 +457,47 @@
   "2026/03/04": {
     "full_date": "Mar 4, 2026",
     "crowd_size": 5,
-    "events": "No events scheduled"
+    "events": "Flower & Garden Festival at EP"
   },
   "2026/03/05": {
     "full_date": "Mar 5, 2026",
     "crowd_size": 6,
-    "events": "EP After Hours at EP"
+    "events": "EP After Hours at EP; Flower & Garden Festival at EP"
   },
   "2026/03/06": {
     "full_date": "Mar 6, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled"
+    "events": "Flower & Garden Festival at EP"
   },
   "2026/03/07": {
     "full_date": "Mar 7, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled"
+    "events": "Flower & Garden Festival at EP"
   },
   "2026/03/08": {
     "full_date": "Mar 8, 2026",
     "crowd_size": 7,
-    "events": "No events scheduled"
+    "events": "Flower & Garden Festival at EP"
   },
   "2026/03/09": {
     "full_date": "Mar 9, 2026",
     "crowd_size": 8,
-    "events": "MK After Hours at MK"
+    "events": "MK After Hours at MK; Flower & Garden Festival at EP"
   },
   "2026/03/10": {
     "full_date": "Mar 10, 2026",
     "crowd_size": 8,
-    "events": "No events scheduled"
+    "events": "Flower & Garden Festival at EP"
   },
   "2026/03/11": {
     "full_date": "Mar 11, 2026",
     "crowd_size": 7,
-    "events": "No events scheduled"
+    "events": "Flower & Garden Festival at EP"
   },
   "2026/03/12": {
     "full_date": "Mar 12, 2026",
     "crowd_size": 6,
-    "events": "EP After Hours at EP"
+    "events": "EP After Hours at EP; Flower & Garden Festival at EP"
   },
   "2026/03/13": {
     "full_date": "Mar 13, 2026",

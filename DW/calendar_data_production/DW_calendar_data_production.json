@@ -1,14 +1,4 @@
 {
-  "2026/05/25": {
-    "full_date": "May 25, 2026",
-    "crowd_size": 4,
-    "events": "Memorial Day; MK After Hours at MK; Flower & Garden Festival at EP; Extended Evening Theme Park Hours at EP"
-  },
-  "2026/05/26": {
-    "full_date": "May 26, 2026",
-    "crowd_size": 5,
-    "events": "Flower & Garden Festival at EP"
-  },
   "2026/05/27": {
     "full_date": "May 27, 2026",
     "crowd_size": 5,
@@ -362,7 +352,7 @@
   "2026/08/05": {
     "full_date": "Aug 5, 2026",
     "crowd_size": 6,
-    "events": "HS After Hours at HS"
+    "events": "HS After Hours at HS; Extended Evening Theme Park Hours at MK"
   },
   "2026/08/06": {
     "full_date": "Aug 6, 2026",

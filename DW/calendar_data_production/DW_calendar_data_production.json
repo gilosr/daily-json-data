@@ -1,9 +1,4 @@
 {
-  "2026/06/14": {
-    "full_date": "Jun 14, 2026",
-    "crowd_size": 4,
-    "events": "No events scheduled"
-  },
   "2026/06/15": {
     "full_date": "Jun 15, 2026",
     "crowd_size": 4,
@@ -11,7 +6,7 @@
   },
   "2026/06/16": {
     "full_date": "Jun 16, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2026/06/17": {
@@ -21,7 +16,7 @@
   },
   "2026/06/18": {
     "full_date": "Jun 18, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "EP After Hours at EP"
   },
   "2026/06/19": {
@@ -46,12 +41,12 @@
   },
   "2026/06/23": {
     "full_date": "Jun 23, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2026/06/24": {
     "full_date": "Jun 24, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "HS After Hours at HS; Extended Evening Theme Park Hours at MK"
   },
   "2026/06/25": {
@@ -61,7 +56,7 @@
   },
   "2026/06/26": {
     "full_date": "Jun 26, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2026/06/27": {
@@ -81,12 +76,12 @@
   },
   "2026/06/30": {
     "full_date": "Jun 30, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2026/07/01": {
     "full_date": "Jul 1, 2026",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "HS After Hours at HS; Extended Evening Theme Park Hours at MK"
   },
   "2026/07/02": {
@@ -111,7 +106,7 @@
   },
   "2026/07/06": {
     "full_date": "Jul 6, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Extended Evening Theme Park Hours at EP"
   },
   "2026/07/07": {
@@ -131,7 +126,7 @@
   },
   "2026/07/10": {
     "full_date": "Jul 10, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2026/07/11": {
@@ -156,12 +151,12 @@
   },
   "2026/07/15": {
     "full_date": "Jul 15, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "HS After Hours at HS; Extended Evening Theme Park Hours at MK"
   },
   "2026/07/16": {
     "full_date": "Jul 16, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2026/07/17": {
@@ -176,7 +171,7 @@
   },
   "2026/07/19": {
     "full_date": "Jul 19, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2026/07/20": {
@@ -196,7 +191,7 @@
   },
   "2026/07/23": {
     "full_date": "Jul 23, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "EP After Hours at EP"
   },
   "2026/07/24": {
@@ -206,12 +201,12 @@
   },
   "2026/07/25": {
     "full_date": "Jul 25, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2026/07/26": {
     "full_date": "Jul 26, 2026",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled"
   },
   "2026/07/27": {
@@ -236,7 +231,7 @@
   },
   "2026/07/31": {
     "full_date": "Jul 31, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "H2O Glow at TL"
   },
   "2026/08/01": {
@@ -246,12 +241,12 @@
   },
   "2026/08/02": {
     "full_date": "Aug 2, 2026",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled"
   },
   "2026/08/03": {
     "full_date": "Aug 3, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Extended Evening Theme Park Hours at EP"
   },
   "2026/08/04": {
@@ -281,12 +276,12 @@
   },
   "2026/08/09": {
     "full_date": "Aug 9, 2026",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "H2O Glow at TL"
   },
   "2026/08/10": {
     "full_date": "Aug 10, 2026",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "Extended Evening Theme Park Hours at EP"
   },
   "2026/08/11": {
@@ -311,7 +306,7 @@
   },
   "2026/08/15": {
     "full_date": "Aug 15, 2026",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled"
   },
   "2026/08/16": {
@@ -357,7 +352,7 @@
   "2026/08/24": {
     "full_date": "Aug 24, 2026",
     "crowd_size": 3,
-    "events": "No events scheduled"
+    "events": "Extended Evening Theme Park Hours at EP"
   },
   "2026/08/25": {
     "full_date": "Aug 25, 2026",

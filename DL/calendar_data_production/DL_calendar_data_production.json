@@ -1,9 +1,4 @@
 {
-  "2026/08/01": {
-    "full_date": "Aug 1, 2026",
-    "crowd_size": 3,
-    "events": "No events scheduled; Blockouts: EN IM"
-  },
   "2026/08/02": {
     "full_date": "Aug 2, 2026",
     "crowd_size": 4,
@@ -1397,7 +1392,7 @@
   "2027/05/07": {
     "full_date": "May 7, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: IM"
+    "events": "Grad Nite at CA; Blockouts: IM"
   },
   "2027/05/08": {
     "full_date": "May 8, 2027",
@@ -1427,12 +1422,12 @@
   "2027/05/13": {
     "full_date": "May 13, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "Grad Nite at CA; Blockouts: None"
   },
   "2027/05/14": {
     "full_date": "May 14, 2027",
     "crowd_size": 4,
-    "events": "No events scheduled; Blockouts: IM"
+    "events": "Grad Nite at CA; Blockouts: IM"
   },
   "2027/05/15": {
     "full_date": "May 15, 2027",
@@ -1442,7 +1437,7 @@
   "2027/05/16": {
     "full_date": "May 16, 2027",
     "crowd_size": 4,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "Grad Nite at CA; Blockouts: EN IM"
   },
   "2027/05/17": {
     "full_date": "May 17, 2027",
@@ -1462,12 +1457,12 @@
   "2027/05/20": {
     "full_date": "May 20, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "Grad Nite at CA; Blockouts: None"
   },
   "2027/05/21": {
     "full_date": "May 21, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: IM"
+    "events": "Grad Nite at CA; Blockouts: IM"
   },
   "2027/05/22": {
     "full_date": "May 22, 2027",
@@ -1477,7 +1472,7 @@
   "2027/05/23": {
     "full_date": "May 23, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "Grad Nite at CA; Blockouts: EN IM"
   },
   "2027/05/24": {
     "full_date": "May 24, 2027",
@@ -1492,12 +1487,12 @@
   "2027/05/26": {
     "full_date": "May 26, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "Grad Nite at CA; Blockouts: None"
   },
   "2027/05/27": {
     "full_date": "May 27, 2027",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "Grad Nite at CA; Blockouts: None"
   },
   "2027/05/28": {
     "full_date": "May 28, 2027",

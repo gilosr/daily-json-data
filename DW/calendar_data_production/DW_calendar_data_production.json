@@ -1,9 +1,4 @@
 {
-  "2026/08/04": {
-    "full_date": "Aug 4, 2026",
-    "crowd_size": 3,
-    "events": "No events scheduled"
-  },
   "2026/08/05": {
     "full_date": "Aug 5, 2026",
     "crowd_size": 5,
@@ -21,7 +16,7 @@
   },
   "2026/08/08": {
     "full_date": "Aug 8, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2026/08/09": {
@@ -31,7 +26,7 @@
   },
   "2026/08/10": {
     "full_date": "Aug 10, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Extended Evening Theme Park Hours at EP"
   },
   "2026/08/11": {
@@ -51,7 +46,7 @@
   },
   "2026/08/14": {
     "full_date": "Aug 14, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Halloween Party at MK"
   },
   "2026/08/15": {
@@ -61,12 +56,12 @@
   },
   "2026/08/16": {
     "full_date": "Aug 16, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "No events scheduled"
   },
   "2026/08/17": {
     "full_date": "Aug 17, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Extended Evening Theme Park Hours at EP"
   },
   "2026/08/18": {
@@ -86,7 +81,7 @@
   },
   "2026/08/21": {
     "full_date": "Aug 21, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Halloween Party at MK"
   },
   "2026/08/22": {
@@ -101,7 +96,7 @@
   },
   "2026/08/24": {
     "full_date": "Aug 24, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Extended Evening Theme Park Hours at EP"
   },
   "2026/08/25": {
@@ -126,17 +121,17 @@
   },
   "2026/08/29": {
     "full_date": "Aug 29, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "H2O Glow at TL; Food & Wine Festival at EP"
   },
   "2026/08/30": {
     "full_date": "Aug 30, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/08/31": {
     "full_date": "Aug 31, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Food & Wine Festival at EP; Extended Evening Theme Park Hours at EP"
   },
   "2026/09/01": {
@@ -156,22 +151,22 @@
   },
   "2026/09/04": {
     "full_date": "Sep 4, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/09/05": {
     "full_date": "Sep 5, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "H2O Glow at TL; Food & Wine Festival at EP"
   },
   "2026/09/06": {
     "full_date": "Sep 6, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Food & Wine Festival at EP"
   },
   "2026/09/07": {
     "full_date": "Sep 7, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Labor Day; Food & Wine Festival at EP; Extended Evening Theme Park Hours at EP"
   },
   "2026/09/08": {
@@ -191,12 +186,12 @@
   },
   "2026/09/11": {
     "full_date": "Sep 11, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/09/12": {
     "full_date": "Sep 12, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "HS After Hours at HS; Food & Wine Festival at EP"
   },
   "2026/09/13": {
@@ -206,7 +201,7 @@
   },
   "2026/09/14": {
     "full_date": "Sep 14, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Food & Wine Festival at EP; Extended Evening Theme Park Hours at EP"
   },
   "2026/09/15": {
@@ -231,12 +226,12 @@
   },
   "2026/09/19": {
     "full_date": "Sep 19, 2026",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "Food & Wine Festival at EP"
   },
   "2026/09/20": {
     "full_date": "Sep 20, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/09/21": {
@@ -256,22 +251,22 @@
   },
   "2026/09/24": {
     "full_date": "Sep 24, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "EP After Hours at EP; Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/09/25": {
     "full_date": "Sep 25, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/09/26": {
     "full_date": "Sep 26, 2026",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "Food & Wine Festival at EP"
   },
   "2026/09/27": {
     "full_date": "Sep 27, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/09/28": {
@@ -316,7 +311,7 @@
   },
   "2026/10/06": {
     "full_date": "Oct 6, 2026",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/10/07": {
@@ -357,7 +352,7 @@
   "2026/10/14": {
     "full_date": "Oct 14, 2026",
     "crowd_size": 5,
-    "events": "Food & Wine Festival at EP"
+    "events": "Food & Wine Festival at EP; Extended Evening Theme Park Hours at HS"
   },
   "2026/10/15": {
     "full_date": "Oct 15, 2026",

@@ -1,9 +1,4 @@
 {
-  "2026/09/08": {
-    "full_date": "Sep 8, 2026",
-    "crowd_size": 2,
-    "events": "Food & Wine Festival at EP; Halloween Party at MK"
-  },
   "2026/09/09": {
     "full_date": "Sep 9, 2026",
     "crowd_size": 2,
@@ -16,7 +11,7 @@
   },
   "2026/09/11": {
     "full_date": "Sep 11, 2026",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/09/12": {
@@ -86,7 +81,7 @@
   },
   "2026/09/25": {
     "full_date": "Sep 25, 2026",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/09/26": {
@@ -121,7 +116,7 @@
   },
   "2026/10/02": {
     "full_date": "Oct 2, 2026",
-    "crowd_size": 3,
+    "crowd_size": 2,
     "events": "Food & Wine Festival at EP; Halloween Party at MK"
   },
   "2026/10/03": {
@@ -171,7 +166,7 @@
   },
   "2026/10/12": {
     "full_date": "Oct 12, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "Columbus Day; Food & Wine Festival at EP; Extended Evening Theme Park Hours at EP"
   },
   "2026/10/13": {

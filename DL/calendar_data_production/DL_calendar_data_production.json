@@ -1,9 +1,4 @@
 {
-  "2026/09/08": {
-    "full_date": "Sep 8, 2026",
-    "crowd_size": 2,
-    "events": "Oogie Boogie Bash at CA; Blockouts: None"
-  },
   "2026/09/09": {
     "full_date": "Sep 9, 2026",
     "crowd_size": 3,
@@ -22,7 +17,7 @@
   "2026/09/12": {
     "full_date": "Sep 12, 2026",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/09/13": {
     "full_date": "Sep 13, 2026",
@@ -36,12 +31,12 @@
   },
   "2026/09/15": {
     "full_date": "Sep 15, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2026/09/16": {
     "full_date": "Sep 16, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/09/17": {
@@ -57,7 +52,7 @@
   "2026/09/19": {
     "full_date": "Sep 19, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/09/20": {
     "full_date": "Sep 20, 2026",
@@ -66,17 +61,17 @@
   },
   "2026/09/21": {
     "full_date": "Sep 21, 2026",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/09/22": {
     "full_date": "Sep 22, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2026/09/23": {
     "full_date": "Sep 23, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/09/24": {
@@ -92,7 +87,7 @@
   "2026/09/26": {
     "full_date": "Sep 26, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/09/27": {
     "full_date": "Sep 27, 2026",
@@ -106,12 +101,12 @@
   },
   "2026/09/29": {
     "full_date": "Sep 29, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Oogie Boogie Bash at CA; Blockouts: None"
   },
   "2026/09/30": {
     "full_date": "Sep 30, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled; Blockouts: None"
   },
   "2026/10/01": {
@@ -127,26 +122,26 @@
   "2026/10/03": {
     "full_date": "Oct 3, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/10/04": {
     "full_date": "Oct 4, 2026",
     "crowd_size": 5,
-    "events": "Oogie Boogie Bash at CA; Blockouts: BL EN IM"
+    "events": "Oogie Boogie Bash at CA; Blockouts: BL EN IM EX"
   },
   "2026/10/05": {
     "full_date": "Oct 5, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/10/06": {
     "full_date": "Oct 6, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "Oogie Boogie Bash at CA; Blockouts: IM"
   },
   "2026/10/07": {
     "full_date": "Oct 7, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled; Blockouts: IM"
   },
   "2026/10/08": {
@@ -162,16 +157,16 @@
   "2026/10/10": {
     "full_date": "Oct 10, 2026",
     "crowd_size": 8,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/10/11": {
     "full_date": "Oct 11, 2026",
     "crowd_size": 7,
-    "events": "Oogie Boogie Bash at CA; Blockouts: BL EN IM"
+    "events": "Oogie Boogie Bash at CA; Blockouts: BL EN IM EX"
   },
   "2026/10/12": {
     "full_date": "Oct 12, 2026",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "Columbus Day; Blockouts: IM"
   },
   "2026/10/13": {
@@ -197,12 +192,12 @@
   "2026/10/17": {
     "full_date": "Oct 17, 2026",
     "crowd_size": 8,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/10/18": {
     "full_date": "Oct 18, 2026",
     "crowd_size": 6,
-    "events": "Oogie Boogie Bash at CA; Blockouts: EN IM"
+    "events": "Oogie Boogie Bash at CA; Blockouts: EN IM EX"
   },
   "2026/10/19": {
     "full_date": "Oct 19, 2026",
@@ -232,12 +227,12 @@
   "2026/10/24": {
     "full_date": "Oct 24, 2026",
     "crowd_size": 8,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/10/25": {
     "full_date": "Oct 25, 2026",
     "crowd_size": 5,
-    "events": "Oogie Boogie Bash at CA; Blockouts: EN IM"
+    "events": "Oogie Boogie Bash at CA; Blockouts: EN IM EX"
   },
   "2026/10/26": {
     "full_date": "Oct 26, 2026",
@@ -267,12 +262,12 @@
   "2026/10/31": {
     "full_date": "Oct 31, 2026",
     "crowd_size": 5,
-    "events": "Halloween; Oogie Boogie Bash at CA; Blockouts: BL EN IM"
+    "events": "Halloween; Oogie Boogie Bash at CA; Blockouts: BL EN IM EX"
   },
   "2026/11/01": {
     "full_date": "Nov 1, 2026",
     "crowd_size": 4,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/11/02": {
     "full_date": "Nov 2, 2026",
@@ -297,17 +292,17 @@
   "2026/11/06": {
     "full_date": "Nov 6, 2026",
     "crowd_size": 3,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/11/07": {
     "full_date": "Nov 7, 2026",
     "crowd_size": 4,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/11/08": {
     "full_date": "Nov 8, 2026",
     "crowd_size": 4,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/11/09": {
     "full_date": "Nov 9, 2026",
@@ -337,12 +332,12 @@
   "2026/11/14": {
     "full_date": "Nov 14, 2026",
     "crowd_size": 7,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/11/15": {
     "full_date": "Nov 15, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/11/16": {
     "full_date": "Nov 16, 2026",
@@ -372,12 +367,12 @@
   "2026/11/21": {
     "full_date": "Nov 21, 2026",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/11/22": {
     "full_date": "Nov 22, 2026",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/11/23": {
     "full_date": "Nov 23, 2026",
@@ -397,22 +392,22 @@
   "2026/11/26": {
     "full_date": "Nov 26, 2026",
     "crowd_size": 8,
-    "events": "Thanksgiving; Blockouts: EN IM"
+    "events": "Thanksgiving; Blockouts: EN IM EX"
   },
   "2026/11/27": {
     "full_date": "Nov 27, 2026",
     "crowd_size": 8,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/11/28": {
     "full_date": "Nov 28, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/11/29": {
     "full_date": "Nov 29, 2026",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/11/30": {
     "full_date": "Nov 30, 2026",
@@ -442,12 +437,12 @@
   "2026/12/05": {
     "full_date": "Dec 5, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/12/06": {
     "full_date": "Dec 6, 2026",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/12/07": {
     "full_date": "Dec 7, 2026",
@@ -477,12 +472,12 @@
   "2026/12/12": {
     "full_date": "Dec 12, 2026",
     "crowd_size": 7,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/12/13": {
     "full_date": "Dec 13, 2026",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/12/14": {
     "full_date": "Dec 14, 2026",
@@ -497,92 +492,92 @@
   "2026/12/16": {
     "full_date": "Dec 16, 2026",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/12/17": {
     "full_date": "Dec 17, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2026/12/18": {
     "full_date": "Dec 18, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/12/19": {
     "full_date": "Dec 19, 2026",
     "crowd_size": 7,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/12/20": {
     "full_date": "Dec 20, 2026",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2026/12/21": {
     "full_date": "Dec 21, 2026",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: IN BL EN IM"
+    "events": "No events scheduled; Blockouts: IN BL EN IM EX"
   },
   "2026/12/22": {
     "full_date": "Dec 22, 2026",
     "crowd_size": 7,
-    "events": "No events scheduled; Blockouts: IN BL EN IM"
+    "events": "No events scheduled; Blockouts: IN BL EN IM EX"
   },
   "2026/12/23": {
     "full_date": "Dec 23, 2026",
     "crowd_size": 7,
-    "events": "No events scheduled; Blockouts: IN BL EN IM"
+    "events": "No events scheduled; Blockouts: IN BL EN IM EX"
   },
   "2026/12/24": {
     "full_date": "Dec 24, 2026",
     "crowd_size": 7,
-    "events": "Christmas Eve; Blockouts: IN BL EN IM"
+    "events": "Christmas Eve; Blockouts: IN BL EN IM EX"
   },
   "2026/12/25": {
     "full_date": "Dec 25, 2026",
     "crowd_size": 8,
-    "events": "Christmas Day; Blockouts: IN BL EN IM"
+    "events": "Christmas Day; Blockouts: IN BL EN IM EX"
   },
   "2026/12/26": {
     "full_date": "Dec 26, 2026",
     "crowd_size": 8,
-    "events": "No events scheduled; Blockouts: IN BL EN IM"
+    "events": "No events scheduled; Blockouts: IN BL EN IM EX"
   },
   "2026/12/27": {
     "full_date": "Dec 27, 2026",
     "crowd_size": 10,
-    "events": "No events scheduled; Blockouts: IN BL EN IM"
+    "events": "No events scheduled; Blockouts: IN BL EN IM EX"
   },
   "2026/12/28": {
     "full_date": "Dec 28, 2026",
     "crowd_size": 9,
-    "events": "No events scheduled; Blockouts: IN BL EN IM"
+    "events": "No events scheduled; Blockouts: IN BL EN IM EX"
   },
   "2026/12/29": {
     "full_date": "Dec 29, 2026",
     "crowd_size": 9,
-    "events": "No events scheduled; Blockouts: IN BL EN IM"
+    "events": "No events scheduled; Blockouts: IN BL EN IM EX"
   },
   "2026/12/30": {
     "full_date": "Dec 30, 2026",
     "crowd_size": 10,
-    "events": "No events scheduled; Blockouts: IN BL EN IM"
+    "events": "No events scheduled; Blockouts: IN BL EN IM EX"
   },
   "2026/12/31": {
     "full_date": "Dec 31, 2026",
     "crowd_size": 10,
-    "events": "New Year's Eve; Blockouts: IN BL EN IM"
+    "events": "New Year's Eve; Blockouts: IN BL EN IM EX"
   },
   "2027/01/01": {
     "full_date": "Jan 1, 2027",
     "crowd_size": 8,
-    "events": "New Year's Day; Blockouts: BL EN IM"
+    "events": "New Year's Day; Blockouts: BL EN IM EX"
   },
   "2027/01/02": {
     "full_date": "Jan 2, 2027",
     "crowd_size": 7,
-    "events": "No events scheduled; Blockouts: BL EN IM"
+    "events": "No events scheduled; Blockouts: BL EN IM EX"
   },
   "2027/01/03": {
     "full_date": "Jan 3, 2027",
@@ -617,7 +612,7 @@
   "2027/01/09": {
     "full_date": "Jan 9, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2027/01/10": {
     "full_date": "Jan 10, 2027",
@@ -652,12 +647,12 @@
   "2027/01/16": {
     "full_date": "Jan 16, 2027",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2027/01/17": {
     "full_date": "Jan 17, 2027",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2027/01/18": {
     "full_date": "Jan 18, 2027",
@@ -687,7 +682,7 @@
   "2027/01/23": {
     "full_date": "Jan 23, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2027/01/24": {
     "full_date": "Jan 24, 2027",
@@ -722,7 +717,7 @@
   "2027/01/30": {
     "full_date": "Jan 30, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "No events scheduled; Blockouts: EN IM EX"
   },
   "2027/01/31": {
     "full_date": "Jan 31, 2027",

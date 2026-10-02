@@ -1,9 +1,4 @@
 {
-  "2026/09/30": {
-    "full_date": "Sep 30, 2026",
-    "crowd_size": 4,
-    "events": "No events scheduled; Blockouts: None"
-  },
   "2026/10/01": {
     "full_date": "Oct 1, 2026",
     "crowd_size": 5,
@@ -1676,6 +1671,156 @@
   },
   "2027/08/31": {
     "full_date": "Aug 31, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/01": {
+    "full_date": "Sep 1, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/02": {
+    "full_date": "Sep 2, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/03": {
+    "full_date": "Sep 3, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/04": {
+    "full_date": "Sep 4, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: EN IM EX"
+  },
+  "2027/09/05": {
+    "full_date": "Sep 5, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: EN IM EX"
+  },
+  "2027/09/06": {
+    "full_date": "Sep 6, 2027",
+    "crowd_size": 4,
+    "events": "Labor Day; Blockouts: IM"
+  },
+  "2027/09/07": {
+    "full_date": "Sep 7, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/08": {
+    "full_date": "Sep 8, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/09": {
+    "full_date": "Sep 9, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/10": {
+    "full_date": "Sep 10, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/11": {
+    "full_date": "Sep 11, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: EN IM EX"
+  },
+  "2027/09/12": {
+    "full_date": "Sep 12, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2027/09/13": {
+    "full_date": "Sep 13, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/14": {
+    "full_date": "Sep 14, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/15": {
+    "full_date": "Sep 15, 2027",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/16": {
+    "full_date": "Sep 16, 2027",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/17": {
+    "full_date": "Sep 17, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/18": {
+    "full_date": "Sep 18, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: EN IM EX"
+  },
+  "2027/09/19": {
+    "full_date": "Sep 19, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2027/09/20": {
+    "full_date": "Sep 20, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/21": {
+    "full_date": "Sep 21, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/22": {
+    "full_date": "Sep 22, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/23": {
+    "full_date": "Sep 23, 2027",
+    "crowd_size": 3,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/24": {
+    "full_date": "Sep 24, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/25": {
+    "full_date": "Sep 25, 2027",
+    "crowd_size": 5,
+    "events": "No events scheduled; Blockouts: EN IM EX"
+  },
+  "2027/09/26": {
+    "full_date": "Sep 26, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: IM"
+  },
+  "2027/09/27": {
+    "full_date": "Sep 27, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/28": {
+    "full_date": "Sep 28, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/29": {
+    "full_date": "Sep 29, 2027",
+    "crowd_size": 4,
+    "events": "No events scheduled; Blockouts: None"
+  },
+  "2027/09/30": {
+    "full_date": "Sep 30, 2027",
     "crowd_size": 3,
     "events": "No events scheduled; Blockouts: None"
   }

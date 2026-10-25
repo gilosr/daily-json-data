@@ -1,19 +1,4 @@
 {
-  "2026/10/22": {
-    "full_date": "Oct 22, 2026",
-    "crowd_size": 2,
-    "events": "Wine & Dine Half Weekend; Food & Wine Festival at EP; Halloween Party at MK"
-  },
-  "2026/10/23": {
-    "full_date": "Oct 23, 2026",
-    "crowd_size": 3,
-    "events": "Wine & Dine Half Weekend; Food & Wine Festival at EP; Halloween Party at MK"
-  },
-  "2026/10/24": {
-    "full_date": "Oct 24, 2026",
-    "crowd_size": 5,
-    "events": "Wine & Dine Half Weekend; Food & Wine Festival at EP"
-  },
   "2026/10/25": {
     "full_date": "Oct 25, 2026",
     "crowd_size": 3,
@@ -97,12 +82,12 @@
   "2026/11/10": {
     "full_date": "Nov 10, 2026",
     "crowd_size": 5,
-    "events": "Food & Wine Festival at EP"
+    "events": "Food & Wine Festival at EP; Holiday Filming at MK First day of"
   },
   "2026/11/11": {
     "full_date": "Nov 11, 2026",
     "crowd_size": 4,
-    "events": "Veterans Day; Food & Wine Festival at EP; Extended Evening Theme Park Hours at AK"
+    "events": "Veterans Day; Food & Wine Festival at EP; Holiday Filming at MK Last day of; Extended Evening Theme Park Hours at AK"
   },
   "2026/11/12": {
     "full_date": "Nov 12, 2026",

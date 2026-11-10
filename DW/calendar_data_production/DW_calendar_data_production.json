@@ -1,9 +1,4 @@
 {
-  "2026/11/08": {
-    "full_date": "Nov 8, 2026",
-    "crowd_size": 5,
-    "events": "Food & Wine Festival at EP; Christmas Party at MK"
-  },
   "2026/11/09": {
     "full_date": "Nov 9, 2026",
     "crowd_size": 6,
@@ -31,7 +26,7 @@
   },
   "2026/11/14": {
     "full_date": "Nov 14, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Jollywood Nights at HS; Food & Wine Festival at EP"
   },
   "2026/11/15": {
@@ -61,7 +56,7 @@
   },
   "2026/11/20": {
     "full_date": "Nov 20, 2026",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "Food & Wine Festival at EP; Christmas Party at MK"
   },
   "2026/11/21": {
@@ -71,7 +66,7 @@
   },
   "2026/11/22": {
     "full_date": "Nov 22, 2026",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2026/11/23": {
@@ -136,7 +131,7 @@
   },
   "2026/12/05": {
     "full_date": "Dec 5, 2026",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Jollywood Nights at HS; Festival of Holidays at EP"
   },
   "2026/12/06": {
@@ -201,7 +196,7 @@
   },
   "2026/12/18": {
     "full_date": "Dec 18, 2026",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "Festival of Holidays at EP; Christmas Party at MK"
   },
   "2026/12/19": {
@@ -271,7 +266,7 @@
   },
   "2027/01/01": {
     "full_date": "Jan 1, 2027",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "New Year's Day"
   },
   "2027/01/02": {
@@ -286,7 +281,7 @@
   },
   "2027/01/04": {
     "full_date": "Jan 4, 2027",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "Extended Evening Theme Park Hours at EP"
   },
   "2027/01/05": {
@@ -357,7 +352,7 @@
   "2027/01/18": {
     "full_date": "Jan 18, 2027",
     "crowd_size": 7,
-    "events": "Birthday of Martin Luther King, Jr.; MK After Hours at MK; Festival of the Arts at EP"
+    "events": "Birthday of Martin Luther King, Jr.; MK After Hours at MK; Festival of the Arts at EP; Extended Evening Theme Park Hours at EP"
   },
   "2027/01/19": {
     "full_date": "Jan 19, 2027",
@@ -391,7 +386,7 @@
   },
   "2027/01/25": {
     "full_date": "Jan 25, 2027",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "Festival of the Arts at EP"
   },
   "2027/01/26": {
@@ -401,7 +396,7 @@
   },
   "2027/01/27": {
     "full_date": "Jan 27, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "HS After Hours at HS; Festival of the Arts at EP"
   },
   "2027/01/28": {
@@ -436,7 +431,7 @@
   },
   "2027/02/03": {
     "full_date": "Feb 3, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Festival of the Arts at EP"
   },
   "2027/02/04": {
@@ -451,7 +446,7 @@
   },
   "2027/02/06": {
     "full_date": "Feb 6, 2027",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "Festival of the Arts at EP"
   },
   "2027/02/07": {
@@ -461,7 +456,7 @@
   },
   "2027/02/08": {
     "full_date": "Feb 8, 2027",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "MK After Hours at MK; Festival of the Arts at EP"
   },
   "2027/02/09": {
@@ -471,7 +466,7 @@
   },
   "2027/02/10": {
     "full_date": "Feb 10, 2027",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "Ash Wednesday; Festival of the Arts at EP"
   },
   "2027/02/11": {
@@ -486,7 +481,7 @@
   },
   "2027/02/13": {
     "full_date": "Feb 13, 2027",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "HS After Hours at HS; Festival of the Arts at EP"
   },
   "2027/02/14": {
@@ -501,7 +496,7 @@
   },
   "2027/02/16": {
     "full_date": "Feb 16, 2027",
-    "crowd_size": 8,
+    "crowd_size": 7,
     "events": "Festival of the Arts at EP"
   },
   "2027/02/17": {
@@ -521,12 +516,12 @@
   },
   "2027/02/20": {
     "full_date": "Feb 20, 2027",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "Festival of the Arts at EP"
   },
   "2027/02/21": {
     "full_date": "Feb 21, 2027",
-    "crowd_size": 7,
+    "crowd_size": 8,
     "events": "Festival of the Arts at EP"
   },
   "2027/02/22": {
@@ -551,7 +546,7 @@
   },
   "2027/02/26": {
     "full_date": "Feb 26, 2027",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "Princess Half Weekend; Festival of the Arts at EP"
   },
   "2027/02/27": {
@@ -571,7 +566,7 @@
   },
   "2027/03/02": {
     "full_date": "Mar 2, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/03/03": {
@@ -591,7 +586,7 @@
   },
   "2027/03/06": {
     "full_date": "Mar 6, 2027",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled"
   },
   "2027/03/07": {
@@ -621,7 +616,7 @@
   },
   "2027/03/12": {
     "full_date": "Mar 12, 2027",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled"
   },
   "2027/03/13": {
@@ -671,7 +666,7 @@
   },
   "2027/03/22": {
     "full_date": "Mar 22, 2027",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled"
   },
   "2027/03/23": {
@@ -746,7 +741,7 @@
   },
   "2027/04/06": {
     "full_date": "Apr 6, 2027",
-    "crowd_size": 6,
+    "crowd_size": 7,
     "events": "No events scheduled"
   },
   "2027/04/07": {
@@ -806,7 +801,7 @@
   },
   "2027/04/18": {
     "full_date": "Apr 18, 2027",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2027/04/19": {
@@ -816,7 +811,7 @@
   },
   "2027/04/20": {
     "full_date": "Apr 20, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/04/21": {
@@ -876,7 +871,7 @@
   },
   "2027/05/02": {
     "full_date": "May 2, 2027",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled"
   },
   "2027/05/03": {
@@ -896,7 +891,7 @@
   },
   "2027/05/06": {
     "full_date": "May 6, 2027",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "EP After Hours at EP"
   },
   "2027/05/07": {
@@ -911,7 +906,7 @@
   },
   "2027/05/09": {
     "full_date": "May 9, 2027",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "Mother's Day"
   },
   "2027/05/10": {
@@ -931,7 +926,7 @@
   },
   "2027/05/13": {
     "full_date": "May 13, 2027",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "EP After Hours at EP"
   },
   "2027/05/14": {
@@ -941,7 +936,7 @@
   },
   "2027/05/15": {
     "full_date": "May 15, 2027",
-    "crowd_size": 5,
+    "crowd_size": 6,
     "events": "No events scheduled"
   },
   "2027/05/16": {
@@ -1021,7 +1016,7 @@
   },
   "2027/05/31": {
     "full_date": "May 31, 2027",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "Memorial Day"
   },
   "2027/06/01": {
@@ -1041,7 +1036,7 @@
   },
   "2027/06/04": {
     "full_date": "Jun 4, 2027",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2027/06/05": {
@@ -1121,7 +1116,7 @@
   },
   "2027/06/20": {
     "full_date": "Jun 20, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "Father's Day"
   },
   "2027/06/21": {
@@ -1131,7 +1126,7 @@
   },
   "2027/06/22": {
     "full_date": "Jun 22, 2027",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled"
   },
   "2027/06/23": {
@@ -1166,7 +1161,7 @@
   },
   "2027/06/29": {
     "full_date": "Jun 29, 2027",
-    "crowd_size": 7,
+    "crowd_size": 6,
     "events": "No events scheduled"
   },
   "2027/06/30": {
@@ -1241,12 +1236,12 @@
   },
   "2027/07/14": {
     "full_date": "Jul 14, 2027",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2027/07/15": {
     "full_date": "Jul 15, 2027",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "MK After Hours at MK"
   },
   "2027/07/16": {
@@ -1271,7 +1266,7 @@
   },
   "2027/07/20": {
     "full_date": "Jul 20, 2027",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2027/07/21": {
@@ -1341,7 +1336,7 @@
   },
   "2027/08/03": {
     "full_date": "Aug 3, 2027",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2027/08/04": {
@@ -1381,12 +1376,12 @@
   },
   "2027/08/11": {
     "full_date": "Aug 11, 2027",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2027/08/12": {
     "full_date": "Aug 12, 2027",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "EP After Hours at EP"
   },
   "2027/08/13": {
@@ -1441,7 +1436,7 @@
   },
   "2027/08/23": {
     "full_date": "Aug 23, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/08/24": {
@@ -1461,12 +1456,12 @@
   },
   "2027/08/27": {
     "full_date": "Aug 27, 2027",
-    "crowd_size": 4,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2027/08/28": {
     "full_date": "Aug 28, 2027",
-    "crowd_size": 6,
+    "crowd_size": 5,
     "events": "No events scheduled"
   },
   "2027/08/29": {
@@ -1476,7 +1471,7 @@
   },
   "2027/08/30": {
     "full_date": "Aug 30, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/08/31": {
@@ -1486,7 +1481,7 @@
   },
   "2027/09/01": {
     "full_date": "Sep 1, 2027",
-    "crowd_size": 3,
+    "crowd_size": 2,
     "events": "No events scheduled"
   },
   "2027/09/02": {
@@ -1496,7 +1491,7 @@
   },
   "2027/09/03": {
     "full_date": "Sep 3, 2027",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "No events scheduled"
   },
   "2027/09/04": {
@@ -1506,7 +1501,7 @@
   },
   "2027/09/05": {
     "full_date": "Sep 5, 2027",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/09/06": {
@@ -1516,7 +1511,7 @@
   },
   "2027/09/07": {
     "full_date": "Sep 7, 2027",
-    "crowd_size": 2,
+    "crowd_size": 3,
     "events": "No events scheduled"
   },
   "2027/09/08": {
@@ -1576,7 +1571,7 @@
   },
   "2027/09/19": {
     "full_date": "Sep 19, 2027",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/09/20": {
@@ -1601,7 +1596,7 @@
   },
   "2027/09/24": {
     "full_date": "Sep 24, 2027",
-    "crowd_size": 3,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/09/25": {
@@ -1616,7 +1611,7 @@
   },
   "2027/09/27": {
     "full_date": "Sep 27, 2027",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled"
   },
   "2027/09/28": {
@@ -1696,7 +1691,7 @@
   },
   "2027/10/13": {
     "full_date": "Oct 13, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/10/14": {
@@ -1721,7 +1716,7 @@
   },
   "2027/10/18": {
     "full_date": "Oct 18, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/10/19": {
@@ -1731,7 +1726,7 @@
   },
   "2027/10/20": {
     "full_date": "Oct 20, 2027",
-    "crowd_size": 5,
+    "crowd_size": 4,
     "events": "No events scheduled"
   },
   "2027/10/21": {
@@ -1756,7 +1751,7 @@
   },
   "2027/10/25": {
     "full_date": "Oct 25, 2027",
-    "crowd_size": 4,
+    "crowd_size": 3,
     "events": "No events scheduled"
   },
   "2027/10/26": {

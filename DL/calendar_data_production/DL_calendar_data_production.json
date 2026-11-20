@@ -1,9 +1,4 @@
 {
-  "2026/11/18": {
-    "full_date": "Nov 18, 2026",
-    "crowd_size": 3,
-    "events": "No events scheduled; Blockouts: None"
-  },
   "2026/11/19": {
     "full_date": "Nov 19, 2026",
     "crowd_size": 3,
@@ -247,7 +242,7 @@
   "2027/01/06": {
     "full_date": "Jan 6, 2027",
     "crowd_size": 4,
-    "events": "Holidays at DLR Last day of; Blockouts: None"
+    "events": "Festival of Holidays at CA Last day of; Holidays at DLR Last day of; Blockouts: None"
   },
   "2027/01/07": {
     "full_date": "Jan 7, 2027",
@@ -337,7 +332,7 @@
   "2027/01/24": {
     "full_date": "Jan 24, 2027",
     "crowd_size": 2,
-    "events": "No events scheduled; Blockouts: IM"
+    "events": "DL After Dark at DL; Blockouts: IM"
   },
   "2027/01/25": {
     "full_date": "Jan 25, 2027",
@@ -347,7 +342,7 @@
   "2027/01/26": {
     "full_date": "Jan 26, 2027",
     "crowd_size": 3,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/01/27": {
     "full_date": "Jan 27, 2027",
@@ -357,7 +352,7 @@
   "2027/01/28": {
     "full_date": "Jan 28, 2027",
     "crowd_size": 3,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/01/29": {
     "full_date": "Jan 29, 2027",
@@ -372,7 +367,7 @@
   "2027/01/31": {
     "full_date": "Jan 31, 2027",
     "crowd_size": 2,
-    "events": "No events scheduled; Blockouts: IM"
+    "events": "DL After Dark at DL; Blockouts: IM"
   },
   "2027/02/01": {
     "full_date": "Feb 1, 2027",
@@ -382,7 +377,7 @@
   "2027/02/02": {
     "full_date": "Feb 2, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/02/03": {
     "full_date": "Feb 3, 2027",
@@ -392,7 +387,7 @@
   "2027/02/04": {
     "full_date": "Feb 4, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/02/05": {
     "full_date": "Feb 5, 2027",
@@ -407,7 +402,7 @@
   "2027/02/07": {
     "full_date": "Feb 7, 2027",
     "crowd_size": 4,
-    "events": "No events scheduled; Blockouts: IM"
+    "events": "DL After Dark at DL; Blockouts: IM"
   },
   "2027/02/08": {
     "full_date": "Feb 8, 2027",
@@ -417,7 +412,7 @@
   "2027/02/09": {
     "full_date": "Feb 9, 2027",
     "crowd_size": 5,
-    "events": "Mardi Gras; Blockouts: None"
+    "events": "Mardi Gras; DL After Dark at DL; Blockouts: None"
   },
   "2027/02/10": {
     "full_date": "Feb 10, 2027",
@@ -427,7 +422,7 @@
   "2027/02/11": {
     "full_date": "Feb 11, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/02/12": {
     "full_date": "Feb 12, 2027",
@@ -452,7 +447,7 @@
   "2027/02/16": {
     "full_date": "Feb 16, 2027",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/02/17": {
     "full_date": "Feb 17, 2027",
@@ -722,7 +717,7 @@
   "2027/04/11": {
     "full_date": "Apr 11, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: IM"
+    "events": "DL After Dark at DL; Blockouts: IM"
   },
   "2027/04/12": {
     "full_date": "Apr 12, 2027",
@@ -732,7 +727,7 @@
   "2027/04/13": {
     "full_date": "Apr 13, 2027",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/04/14": {
     "full_date": "Apr 14, 2027",
@@ -742,7 +737,7 @@
   "2027/04/15": {
     "full_date": "Apr 15, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/04/16": {
     "full_date": "Apr 16, 2027",
@@ -802,7 +797,7 @@
   "2027/04/27": {
     "full_date": "Apr 27, 2027",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/04/28": {
     "full_date": "Apr 28, 2027",
@@ -812,7 +807,7 @@
   "2027/04/29": {
     "full_date": "Apr 29, 2027",
     "crowd_size": 6,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/04/30": {
     "full_date": "Apr 30, 2027",
@@ -837,7 +832,7 @@
   "2027/05/04": {
     "full_date": "May 4, 2027",
     "crowd_size": 4,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/05/05": {
     "full_date": "May 5, 2027",
@@ -847,7 +842,7 @@
   "2027/05/06": {
     "full_date": "May 6, 2027",
     "crowd_size": 5,
-    "events": "No events scheduled; Blockouts: None"
+    "events": "DL After Dark at DL; Blockouts: None"
   },
   "2027/05/07": {
     "full_date": "May 7, 2027",
@@ -1057,7 +1052,7 @@
   "2027/06/17": {
     "full_date": "Jun 17, 2027",
     "crowd_size": 7,
-    "events": "No events scheduled; Blockouts: EN IM"
+    "events": "DL After Dark at DL; Blockouts: EN IM"
   },
   "2027/06/18": {
     "full_date": "Jun 18, 2027",
